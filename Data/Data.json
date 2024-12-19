@@ -1,0 +1,1050 @@
+[
+  {
+    "index": 1,
+    "name": "BHX",
+    "category": "Interior surface",
+    "CE": "Yes",
+    "Fireproof": "Yes",
+    "Environment": "",
+    "Heat resistance": "PC/PC850°C",
+    "IP": [
+      "IP65"
+    ],
+    "IK": "IK08",
+    "EN": [
+      ""
+    ],
+    "CLASS": "",
+    "CRI": "",
+    "BIM": "",
+    "Food safety": "",
+    "lighttype": "LED",
+    "base": "Polycarbonate base",
+    "image": "/Images/Products/Products/BUBA LED.jpg",
+    "imagealt": "BUBA LED Interior Surface Lighting Solution",
+    "datasheetimg": [
+      "/Images/Products/Datasheets_jpg/BHX1.jpg",
+      "/Images/Products/Datasheets_jpg/BHX2.jpg"
+    ],
+    "datasheetimgalt": [
+      "Datasheet BUBA LED page 1",
+      "Datasheet BUBA LED page 2"
+    ],
+    "datasheetpdf": "/Data/Datasheets_pdf/BHX.pdf",
+    "commercialpoints": [
+      "Interior surface",
+      "Polycarbonate base"
+    ],
+    "description": "",
+    "options": [
+      ""
+    ],
+    "optionsalt": [
+      ""
+    ]
+  },
+  {
+    "index": 2,
+    "name": "BHX+",
+    "category": "Interior surface",
+    "CE": "Yes",
+    "Fireproof": "Yes",
+    "Environment": "",
+    "Heat resistance": "PC/PC850°C",
+    "IP": [
+      "IP54"
+    ],
+    "IK": "",
+    "EN": [
+      ""
+    ],
+    "CLASS": "",
+    "CRI": "",
+    "BIM": "",
+    "Food safety": "",
+    "lighttype": "LED",
+    "base": "Polycarbonate base",
+    "image": "/Images/Products/Products/BUBA+.jpg",
+    "imagealt": "BUBA+ Interior Surface Lighting solution",
+    "datasheetimg": [
+      "/Images/Products/Datasheets_jpg/BHX+1.jpg",
+      "/Images/Products/Datasheets_jpg/BHX+2.jpg"
+    ],
+    "datasheetimgalt": [
+      "Datasheet BUBA+ LED page 1",
+      "Datasheet BUBA+ LED page 2"
+    ],
+    "datasheetpdf": "/Data/Datasheets_pdf/BHX+.pdf",
+    "commercialpoints": [
+      "Interior surface",
+      "Pre-mounting bracket"
+    ],
+    "description": "",
+    "options": [
+      ""
+    ],
+    "optionsalt": [
+      ""
+    ]
+  },
+  {
+    "index": 3,
+    "name": "BPI",
+    "category": "Weatherproof",
+    "CE": "Yes",
+    "Fireproof": "Yes",
+    "Environment": "",
+    "Heat resistance": "",
+    "IP": [
+      "IP65"
+    ],
+    "IK": "",
+    "EN": [
+      "EN 60598"
+    ],
+    "CLASS": "Class II",
+    "CRI": "",
+    "BIM": "",
+    "Food safety": "",
+    "lighttype": "Fluorescent",
+    "base": "Glass reinforced polyester",
+    "image": "/Images/Products/Products/BPI.jpg",
+    "imagealt": "BPI Weatherproof Lighting Solution",
+    "datasheetimg": [
+      "/Images/Products/Datasheets_jpg/BPI.jpg",
+      "/Images/Products/Datasheets_jpg/BPI2.jpg"
+    ],
+    "datasheetimgalt": [
+      "Datasheet BPI page 1",
+      "Datasheet BPI page 2"
+    ],
+    "datasheetpdf": "/Data/Datasheets_pdf/BPI.pdf",
+    "commercialpoints": [
+      "Interior surface",
+      "Polyester base"
+    ],
+    "description": "",
+    "options": [
+      ""
+    ],
+    "optionsalt": [
+      ""
+    ]
+  },
+  {
+    "index": 4,
+    "name": "CLX",
+    "category": "Street lighting",
+    "CE": "Yes",
+    "Fireproof": "",
+    "Environment": "",
+    "Heat resistance": "",
+    "IP": [
+      "IP65"
+    ],
+    "IK": "",
+    "EN": [
+      "EN 60598"
+    ],
+    "CLASS": "",
+    "CRI": "",
+    "BIM": "",
+    "Food safety": "",
+    "lighttype": "Fluorescent",
+    "base": "Glass reinforced polyester",
+    "image": "/Images/Products/Products/CLX.jpg",
+    "imagealt": "CLX Street Lighting Solution",
+    "datasheetimg": [
+      "/Images/Products/Datasheets_jpg/CLX.jpg",
+      "/Images/Products/Datasheets_jpg/CLX2.jpg"
+    ],
+    "datasheetimgalt": [
+      "Datasheet CLX page 1",
+      "Datasheet CLX page 2"
+    ],
+    "datasheetpdf": "/Data/Datasheets_pdf/CLX.pdf",
+    "commercialpoints": [
+      "Street lighting",
+      "Polyester base"
+    ],
+    "description": "",
+    "options": [
+      ""
+    ],
+    "optionsalt": [
+      ""
+    ]
+  },
+  {
+    "index": 5,
+    "name": "ECHO LED",
+    "category": "Interior surface",
+    "CE": "Yes",
+    "Fireproof": "",
+    "Environment": "",
+    "Heat resistance": "",
+    "IP": [
+      "IP20"
+    ],
+    "IK": "",
+    "EN": [
+      ""
+    ],
+    "CLASS": "",
+    "CRI": "",
+    "BIM": "",
+    "Food safety": "",
+    "lighttype": "LED",
+    "base": "White powder coated steel",
+    "image": "/Images/Products/Products/Echo LED.jpg",
+    "imagealt": "ECHO LED Interior Surface Lighting Solution",
+    "datasheetimg": [
+      "/Images/Products/Datasheets_jpg/Echo LED.jpg",
+      "/Images/Products/Datasheets_jpg/Echo LED2.jpg"
+    ],
+    "datasheetimgalt": [
+      "Datasheet ECHO LED page 1",
+      "Datasheet ECHO LED page 2"
+    ],
+    "datasheetpdf": "/Data/Datasheets_pdf/Echo LED.pdf",
+    "commercialpoints": [
+      "Interior surface",
+      "Alum louver"
+    ],
+    "description": "",
+    "options": [
+      ""
+    ],
+    "optionsalt": [
+      ""
+    ]
+  },
+  {
+    "index": 6,
+    "name": "ECLIPS LED",
+    "category": "Interior surface",
+    "CE": "Yes",
+    "Fireproof": "Yes",
+    "Environment": "",
+    "Heat resistance": "",
+    "IP": [
+      "IP20"
+    ],
+    "IK": "",
+    "EN": [
+      "EN 60598"
+    ],
+    "CLASS": "",
+    "CRI": "",
+    "BIM": "",
+    "Food safety": "",
+    "lighttype": "LED",
+    "base": "White powder coated steel",
+    "image": "/Images/Products/Products/Eclips LED.jpg",
+    "imagealt": "ECLIPS LED Interior Surface Lighting Solution",
+    "datasheetimg": [
+      "/Images/Products/Datasheets_jpg/ECLIPS LED.jpg"
+    ],
+    "datasheetimgalt": [
+      "Datasheet ECLIPS LED"
+    ],
+    "datasheetpdf": "/Data/Datasheets_pdf/Eclips LED.pdf",
+    "commercialpoints": [
+      "Interior surface",
+      "Alum Cat2 louver"
+    ],
+    "description": "",
+    "options": [
+      ""
+    ],
+    "optionsalt": [
+      ""
+    ]
+  },
+  {
+    "index": 7,
+    "name": "EMX",
+    "category": "Emergency",
+    "CE": "Yes",
+    "Fireproof": "Yes",
+    "Environment": "",
+    "Heat resistance": "",
+    "IP": [
+      "IP65"
+    ],
+    "IK": "",
+    "EN": [
+      "EN 60598"
+    ],
+    "CLASS": "",
+    "CRI": "",
+    "BIM": "",
+    "Food safety": "",
+    "lighttype": "Fluorescent",
+    "base": "Polycarbonate or polystyrene",
+    "image": "/Images/Products/Products/EMX.jpg",
+    "imagealt": "EMX Emergency Lighting Solution",
+    "datasheetimg": [
+      "/Images/Products/Datasheets_jpg/EMX.jpg",
+      "/Images/Products/Datasheets_jpg/EMX2.jpg"
+    ],
+    "datasheetimgalt": [
+      "Datasheet EMX page 1",
+      "Datasheet EMX page 2"
+    ],
+    "datasheetpdf": "/Data/Datasheets_pdf/EMX.pdf",
+    "commercialpoints": [
+      "Interior surface",
+      "Emergency -3h"
+    ],
+    "description": "",
+    "options": [
+      "/Images/Products/Options/EMX_04.jpg",
+      "/Images/Products/Options/EMX_05.jpg",
+      "/Images/Products/Options/EMX_Sign_08.jpg",
+      "/Images/Products/Options/EMX_Sign_07.jpg",
+      "/Images/Products/Options/EMX_Sign_06.jpg",
+      "/Images/Products/Options/EMX_Sign_04.jpg",
+      "/Images/Products/Options/EMX_Sign_02.jpg",
+      "/Images/Products/Options/EMX_Sign_01.jpg",
+      "/Images/Products/Options/EMX_Sign_03.jpg",
+      "/Images/Products/Options/EMX_Sign_05.jpg"
+    ],
+    "optionsalt": [
+      "Self Test",
+      "Batteries 4/2.2/1.5A",
+      "Emergency Left",
+      "Emergency Right",
+      "Emergency Down",
+      "Door Exit Right",
+      "Exit Left",
+      "Exit Right",
+      "Exit Down",
+      "Door Exit Left"
+    ]
+  },
+  {
+    "index": 8,
+    "name": "EMX LED",
+    "category": "Emergency",
+    "CE": "Yes",
+    "Fireproof": "Yes",
+    "Environment": "",
+    "Heat resistance": "",
+    "IP": [
+      "IP65"
+    ],
+    "IK": "",
+    "EN": [
+      "EN 60598"
+    ],
+    "CLASS": "",
+    "CRI": "",
+    "BIM": "",
+    "Food safety": "",
+    "lighttype": "LED",
+    "base": "Polycarbonate or polystyrene",
+    "image": "/Images/Products/Products/EMX.jpg",
+    "imagealt": "EMX LED Emergency Lighting Solution",
+    "datasheetimg": [
+      "/Images/Products/Datasheets_jpg/EMX.jpg",
+      "/Images/Products/Datasheets_jpg/EMX2.jpg"
+    ],
+    "datasheetimgalt": [
+      "Datasheet EMX LED page 1",
+      "Datasheet EMX LED page 2"
+    ],
+    "datasheetpdf": "/Data/Datasheets_pdf/EMX.pdf",
+    "commercialpoints": [
+      "Interior surface",
+      "Emergency -3h"
+    ],
+    "description": "",
+    "options": [
+      "/Images/Products/Options/EMX_04.jpg",
+      "/Images/Products/Options/EMX_05.jpg",
+      "/Images/Products/Options/EMX_Sign_08.jpg",
+      "/Images/Products/Options/EMX_Sign_07.jpg",
+      "/Images/Products/Options/EMX_Sign_06.jpg",
+      "/Images/Products/Options/EMX_Sign_04.jpg",
+      "/Images/Products/Options/EMX_Sign_02.jpg",
+      "/Images/Products/Options/EMX_Sign_01.jpg",
+      "/Images/Products/Options/EMX_Sign_03.jpg",
+      "/Images/Products/Options/EMX_Sign_05.jpg"
+    ],
+    "optionsalt": [
+      "Self Test",
+      "Batteries 4/2.2/1.5A",
+      "Emergency Left",
+      "Emergency Right",
+      "Emergency Down",
+      "Door Exit Right",
+      "Exit Left",
+      "Exit Right",
+      "Exit Down",
+      "Door Exit Left"
+    ]
+  },
+  {
+    "index": 9,
+    "name": "ELX LED Access",
+    "category": "Interior surface",
+    "CE": "Yes",
+    "Fireproof": "",
+    "Environment": "LSOH",
+    "Heat resistance": "",
+    "IP": [
+      "IP65",
+      "IP66"
+    ],
+    "IK": "IK08",
+    "EN": [
+      "ENEC02"
+    ],
+    "CLASS": "Class II",
+    "CRI": "CRI>80",
+    "BIM": "",
+    "Food safety": "",
+    "lighttype": "LED",
+    "base": "Frosted polycarbonate with UV-protection",
+    "image": "/Images/Products/Products/ELX.jpg",
+    "imagealt": "ELX LED Access Lighting Solution",
+    "datasheetimg": [
+      "/Images/Products/Datasheets_jpg/ELX Access1.jpg",
+      "/Images/Products/Datasheets_jpg/ELX Access2.jpg"
+    ],
+    "datasheetimgalt": [
+      "Datasheet ELX LED Access page 1",
+      "Datasheet ELX LED Access page 2"
+    ],
+    "datasheetpdf": "/Data/Datasheets_pdf/ELX Access.pdf",
+    "commercialpoints": [
+      "Interior surface"
+    ],
+    "description": "",
+    "options": [
+      ""
+    ],
+    "optionsalt": [
+      ""
+    ]
+  },
+  {
+    "index": 10,
+    "name": "ELX LED Access Ecoline",
+    "category": "Interior surface",
+    "CE": "Yes",
+    "Fireproof": "",
+    "Environment": "RoHS",
+    "Heat resistance": "",
+    "IP": [
+      "IP65",
+      "IP66"
+    ],
+    "IK": "IK08",
+    "EN": [
+      "ENEC02"
+    ],
+    "CLASS": "Class II",
+    "CRI": "CRI>80",
+    "BIM": "",
+    "Food safety": "",
+    "lighttype": "LED",
+    "base": "Frosted polycarbonate with UV-protection",
+    "image": "/Images/Products/Products/ELX.jpg",
+    "imagealt": "ELX LED Access Ecoline Lighting Solution",
+    "datasheetimg": [
+      "/Images/Products/Datasheets_jpg/ELX Access Ecoline1.jpg",
+      "/Images/Products/Datasheets_jpg/ELX Access Ecoline2.jpg"
+    ],
+    "datasheetimgalt": [
+      "Datasheet ELX LED Access Ecoline page 1",
+      "Datasheet ELX LED Access Ecoline page 2"
+    ],
+    "datasheetpdf": "/Data/Datasheets_pdf/ELX Access Ecoline.pdf",
+    "commercialpoints": [
+      "Interior surface"
+    ],
+    "description": "",
+    "options": [
+      ""
+    ],
+    "optionsalt": [
+      ""
+    ]
+  },
+  {
+    "index": 11,
+    "name": "ELX LED LINO",
+    "category": "Interior surface",
+    "CE": "Yes",
+    "Fireproof": "",
+    "Environment": "LSOH",
+    "Heat resistance": "",
+    "IP": [
+      "IP65",
+      "IP66"
+    ],
+    "IK": "IK08",
+    "EN": [
+      "ENEC02"
+    ],
+    "CLASS": "Class II",
+    "CRI": "CRI>80",
+    "BIM": "",
+    "Food safety": "",
+    "lighttype": "LED",
+    "base": "Frosted polycarbonate",
+    "image": "/Images/Products/Products/ELX.jpg",
+    "imagealt": "ELX LED LINO Lighting Solution",
+    "datasheetimg": [
+      "/Images/Products/Datasheets_jpg/ELX Lino1.jpg",
+      "/Images/Products/Datasheets_jpg/ELX Lino2.jpg"
+    ],
+    "datasheetimgalt": [
+      "Datasheet ELX LED LINO page 1",
+      "Datasheet ELX LED LINO page 2"
+    ],
+    "datasheetpdf": "/Data/Datasheets_pdf/ELX Lino.pdf",
+    "commercialpoints": [
+      "Interior surface"
+    ],
+    "description": "",
+    "options": [
+      ""
+    ],
+    "optionsalt": [
+      ""
+    ]
+  },
+  {
+    "index": 12,
+    "name": "Futurix",
+    "category": "Weatherproof",
+    "CE": "Yes",
+    "Fireproof": "Yes",
+    "Environment": "",
+    "Heat resistance": "",
+    "IP": [
+      "IP65"
+    ],
+    "IK": "",
+    "EN": [
+      "ENEC"
+    ],
+    "CLASS": "Class II",
+    "CRI": "",
+    "BIM": "",
+    "Food safety": "",
+    "lighttype": "LED",
+    "base": "Polycarbonate",
+    "image": "/Images/Products/Products/FTX.jpg",
+    "imagealt": "Futurix Weatherproof Lighting Solution",
+    "datasheetimg": [
+      "/Images/Products/Datasheets_jpg/FTX.jpg",
+      "/Images/Products/Datasheets_jpg/FTX2.jpg"
+    ],
+    "datasheetimgalt": [
+      "Datasheet Futurix"
+    ],
+    "datasheetpdf": "/Data/Datasheets_pdf/FTX.pdf",
+    "commercialpoints": [
+      "Weatherproof"
+    ],
+    "description": "",
+    "options": [
+      ""
+    ],
+    "optionsalt": [
+      ""
+    ]
+  },
+  {
+    "index": 13,
+    "name": "Futurix-PC",
+    "category": "Weatherproof",
+    "CE": "Yes",
+    "Fireproof": "Yes",
+    "Environment": "",
+    "Heat resistance": "",
+    "IP": [
+      "IP65"
+    ],
+    "IK": "",
+    "EN": [
+      "ENEC"
+    ],
+    "CLASS": "Class II",
+    "CRI": "",
+    "BIM": "",
+    "Food safety": "",
+    "lighttype": "Fluorescent",
+    "base": "Injected polycarbonate",
+    "image": "/Images/Products/Products/FTX PC.jpg",
+    "imagealt": "Futurix-PC Weatherproof Lighting Solution",
+    "datasheetimg": [
+      "/Images/Products/Datasheets_jpg/FTX PC.jpg"
+    ],
+    "datasheetimgalt": [
+      "Datasheet Futurix-PC"
+    ],
+    "datasheetpdf": "/Data/Datasheets_pdf/FTX PC.pdf",
+    "commercialpoints": [
+      "Weatherproof IP65",
+      "Polycarbonate base"
+    ],
+    "description": "",
+    "options": [
+      "/Images/Products/Options/access_05.jpg",
+      "/Images/Products/Options/access_02.jpg",
+      "/Images/Products/Options/access_30.jpg",
+      "/Images/Products/Options/access_01.jpg",
+      "/Images/Products/Options/access_31.jpg",
+      "/Images/Products/Options/access_03.jpg",
+      "/Images/Products/Options/access_07.jpg",
+      "/Images/Products/Options/access_15.jpg",
+      "/Images/Products/Options/access_12.jpg",
+      "/Images/Products/Options/access_13.jpg"
+    ],
+    "optionsalt": [
+      "Through Wiring",
+      "Emergency Modules",
+      "Quick Conn. Grommet",
+      "Cable Gland",
+      "Hingeable Clip (PA)",
+      "Eyelet",
+      "Stainless Steel Clip",
+      "Susp. Bracket Eyelet",
+      "Susp. Bracket 2L",
+      "Susp. Bracket 1L"
+    ]
+  },
+  {
+    "index": 14,
+    "name": "Futurix-PC Color",
+    "category": "Weatherproof",
+    "CE": "Yes",
+    "Fireproof": "Yes",
+    "Environment": "",
+    "Heat resistance": "",
+    "IP": [
+      "IP65"
+    ],
+    "IK": "",
+    "EN": [
+      "ENEC"
+    ],
+    "CLASS": "Class II",
+    "CRI": "",
+    "BIM": "",
+    "Food safety": "",
+    "lighttype": "Fluorescent",
+    "base": "Injected polycarbonate",
+    "image": "/Images/Products/Products/FTX_Color.jpg",
+    "imagealt": "Futurix-PC Color Weatherproof Lighting Solution",
+    "datasheetimg": [
+      "/Images/Products/Datasheets_jpg/FTX-PC Color.jpg"
+    ],
+    "datasheetimgalt": [
+      "Datasheet Futurix-PC Color"
+    ],
+    "datasheetpdf": "",
+    "commercialpoints": [
+      "Weatherproof IP65",
+      "Polycarbonate base"
+    ],
+    "description": "",
+    "options": [
+      "/Images/Products/Options/access_05.jpg",
+      "/Images/Products/Options/access_02.jpg",
+      "/Images/Products/Options/access_30.jpg",
+      "/Images/Products/Options/access_01.jpg",
+      "/Images/Products/Options/access_31.jpg",
+      "/Images/Products/Options/access_03.jpg",
+      "/Images/Products/Options/access_07.jpg",
+      "/Images/Products/Options/access_15.jpg",
+      "/Images/Products/Options/access_12.jpg",
+      "/Images/Products/Options/access_13.jpg"
+    ],
+    "optionsalt": [
+      "Through Wiring",
+      "Emergency Modules",
+      "Quick Conn. Grommet",
+      "Cable Gland",
+      "Hingeable Clip (PA)",
+      "Eyelet",
+      "Stainless Steel Clip",
+      "Susp. Bracket Eyelet",
+      "Susp. Bracket 2L",
+      "Susp. Bracket 1L"
+    ]
+  },
+  {
+    "index": 15,
+    "name": "Futurix LED",
+    "category": "Weatherproof",
+    "CE": "Yes",
+    "Fireproof": "",
+    "Environment": "LSOH",
+    "Heat resistance": "",
+    "IP": [
+      "IP65",
+      "IP66"
+    ],
+    "IK": "",
+    "EN": [
+      "ENEC02",
+      "EN 62471 RGO"
+    ],
+    "CLASS": "Class II",
+    "CRI": "",
+    "BIM": "BIM DWG(3D)",
+    "Food safety": "HACCP",
+    "lighttype": "LED",
+    "base": "Glass reinforced polyester",
+    "image": "/Images/Products/Products/FTX-Led.jpg",
+    "imagealt": "Futurix LED Weatherproof Lighting Solution",
+    "datasheetimg": [
+      "/Images/Products/Datasheets_jpg/Futurix LED1.jpg",
+      "/Images/Products/Datasheets_jpg/Futurix LED2.jpg",
+      "/Images/Products/Datasheets_jpg/Futurix LED3.jpg"
+    ],
+    "datasheetimgalt": [
+      "Datasheet Futurix LED page 1",
+      "Datasheet Futurix LED page 2"
+    ],
+    "datasheetpdf": "/Data/Datasheets_pdf/Futurix LED.pdf",
+    "commercialpoints": [
+      "Weatherproof IP65",
+      "Polyester base"
+    ],
+    "description": "",
+    "options": [
+      "/Images/Products/Options/access_05.jpg",
+      "/Images/Products/Options/access_02.jpg",
+      "/Images/Products/Options/access_30.jpg",
+      "/Images/Products/Options/access_01.jpg",
+      "/Images/Products/Options/access_31.jpg",
+      "/Images/Products/Options/access_03.jpg",
+      "/Images/Products/Options/access_07.jpg",
+      "/Images/Products/Options/access_15.jpg",
+      "/Images/Products/Options/access_12.jpg",
+      "/Images/Products/Options/access_13.jpg"
+    ],
+    "optionsalt": [
+      "Through Wiring",
+      "Emergency Modules",
+      "Quick Conn. Grommet",
+      "Cable Gland",
+      "Hingeable Clip (PA)",
+      "Eyelet",
+      "Stainless Steel Clip",
+      "Susp. Bracket Eyelet",
+      "Susp. Bracket 2L",
+      "Susp. Bracket 1L"
+    ]
+  },
+  {
+    "index": 16,
+    "name": "Futurix Ecoline",
+    "category": "Weatherproof",
+    "CE": "Yes",
+    "Fireproof": "Yes",
+    "Environment": "",
+    "Heat resistance": "",
+    "IP": [
+      "IP65",
+      "IP66"
+    ],
+    "IK": "",
+    "EN": [
+      "ENEC02"
+    ],
+    "CLASS": "",
+    "CRI": "",
+    "BIM": "BIM DWG(3D)",
+    "Food safety": "",
+    "lighttype": "LED",
+    "base": "Grey polycarbonate",
+    "image": "/Images/Products/Products/FTX ECOLED.jpg",
+    "imagealt": "Futurix Ecoline Weatherproof LED Lighting Solution",
+    "datasheetimg": [
+      "/Images/Products/Datasheets_jpg/Futurix Ecoline1.jpg",
+      "/Images/Products/Datasheets_jpg/Futurix Ecoline2.jpg"
+    ],
+    "datasheetimgalt": [
+      "Datasheet Futurix Ecoline page 1",
+      "Datasheet Futurix Ecoline page 2"
+    ],
+    "datasheetpdf": "/Data/Datasheets_pdf/Futurix Ecoline.pdf",
+    "commercialpoints": [
+      "Weatherproof IP65",
+      "Polyester base"
+    ],
+    "description": "",
+    "options": [
+      "/Images/Products/Options/access_05.jpg",
+      "/Images/Products/Options/access_02.jpg",
+      "/Images/Products/Options/access_30.jpg",
+      "/Images/Products/Options/access_01.jpg",
+      "/Images/Products/Options/access_31.jpg",
+      "/Images/Products/Options/access_03.jpg",
+      "/Images/Products/Options/access_07.jpg",
+      "/Images/Products/Options/access_15.jpg",
+      "/Images/Products/Options/access_12.jpg",
+      "/Images/Products/Options/access_13.jpg"
+    ],
+    "optionsalt": [
+      "Through Wiring",
+      "Emergency Modules",
+      "Quick Conn. Grommet",
+      "Cable Gland",
+      "Hingeable Clip (PA)",
+      "Eyelet",
+      "Stainless Steel Clip",
+      "Susp. Bracket Eyelet",
+      "Susp. Bracket 2L",
+      "Susp. Bracket 1L"
+    ]
+  },
+  {
+    "index": 17,
+    "name": "Futurix LED HT",
+    "category": "Weatherproof",
+    "CE": "Yes",
+    "Fireproof": "",
+    "Environment": "LSOH",
+    "Heat resistance": "",
+    "IP": [
+      "IP65",
+      "IP66"
+    ],
+    "IK": "",
+    "EN": [
+      "ENEC02",
+      "EN 62471 RGO"
+    ],
+    "CLASS": "Class II",
+    "CRI": "",
+    "BIM": "BIM DWG(3D)",
+    "Food safety": "HACCP",
+    "lighttype": "LED",
+    "base": "Glass reinforced polyester",
+    "image": "/Images/Products/Products/FTX-Led.jpg",
+    "imagealt": "Futurix LED HT Weatherproof High-Temperature LED Solution",
+    "datasheetimg": [
+      "/Images/Products/Datasheets_jpg/Futurix LED HT1.jpg",
+      "/Images/Products/Datasheets_jpg/Futurix LED HT2.jpg"
+    ],
+    "datasheetimgalt": [
+      "Datasheet Futurix LED HT page 1",
+      "Datasheet Futurix LED HT page 2"
+    ],
+    "datasheetpdf": "/Data/Datasheets_pdf/Futurix LED HT.pdf",
+    "commercialpoints": [
+      "Weatherproof IP65",
+      "Polyester base"
+    ],
+    "description": "",
+    "options": [
+      "/Images/Products/Options/access_05.jpg",
+      "/Images/Products/Options/access_02.jpg",
+      "/Images/Products/Options/access_30.jpg",
+      "/Images/Products/Options/access_01.jpg",
+      "/Images/Products/Options/access_31.jpg",
+      "/Images/Products/Options/access_03.jpg",
+      "/Images/Products/Options/access_07.jpg",
+      "/Images/Products/Options/access_15.jpg",
+      "/Images/Products/Options/access_12.jpg",
+      "/Images/Products/Options/access_13.jpg"
+    ],
+    "optionsalt": [
+      "Through Wiring",
+      "Emergency Modules",
+      "Quick Conn. Grommet",
+      "Cable Gland",
+      "Hingeable Clip (PA)",
+      "Eyelet",
+      "Stainless Steel Clip",
+      "Susp. Bracket Eyelet",
+      "Susp. Bracket 2L",
+      "Susp. Bracket 1L"
+    ]
+  },
+  {
+    "index": 18,
+    "name": "LILI-EM",
+    "category": "Emergency",
+    "CE": "Yes",
+    "Fireproof": "Yes",
+    "Environment": "",
+    "Heat resistance": "",
+    "IP": [
+      "IP20"
+    ],
+    "IK": "",
+    "EN": [
+      "EN 60598"
+    ],
+    "CLASS": "",
+    "CRI": "",
+    "BIM": "",
+    "Food safety": "",
+    "lighttype": "Fluorescent",
+    "base": "White metal back plate",
+    "image": "/Images/Products/Products/LILI_EM.jpg",
+    "imagealt": "LILI-EM Emergency Lighting",
+    "datasheetimg": [
+      "/Images/Products/Datasheets_jpg/LILI-EM.jpg"
+    ],
+    "datasheetimgalt": [
+      "LILI-EM Datasheet"
+    ],
+    "datasheetpdf": "/Data/Datasheets_pdf/Lili-EM.pdf",
+    "commercialpoints": [
+      "Interior surface",
+      "Emergency -3h"
+    ],
+    "description": "",
+    "options": [
+      ""
+    ],
+    "optionsalt": [
+      ""
+    ]
+  },
+  {
+    "index": 19,
+    "name": "LILI-LED",
+    "category": "Interior surface",
+    "CE": "Yes",
+    "Fireproof": "Yes",
+    "Environment": "",
+    "Heat resistance": "",
+    "IP": [
+      "IP20"
+    ],
+    "IK": "",
+    "EN": [
+      "EN 60598"
+    ],
+    "CLASS": "",
+    "CRI": "",
+    "BIM": "",
+    "Food safety": "",
+    "lighttype": "LED",
+    "base": "White metal back plate",
+    "image": "/Images/Products/Products/LILI.jpg",
+    "imagealt": "LILI-LED Emergency Lighting",
+    "datasheetimg": [
+      "/Images/Products/Datasheets_jpg/LILI LED1.jpg",
+      "/Images/Products/Datasheets_jpg/LILI LED2.jpg"
+    ],
+    "datasheetimgalt": [
+      "LILI LED Datasheet page 1",
+      "LILI LED Datasheet page 2"
+    ],
+    "datasheetpdf": "/Data/Datasheets_pdf/LILI LED.pdf",
+    "commercialpoints": [
+      "Interior surface",
+      "Emergency -3h"
+    ],
+    "description": "",
+    "options": [
+      ""
+    ],
+    "optionsalt": [
+      ""
+    ]
+  },
+  {
+    "index": 20,
+    "name": "LMX LED",
+    "category": "Emergency",
+    "CE": "Yes",
+    "Fireproof": "Yes",
+    "Environment": "",
+    "Heat resistance": "",
+    "IP": [
+      "IP65"
+    ],
+    "IK": "IK10",
+    "EN": [
+      "EN 60598"
+    ],
+    "CLASS": "",
+    "CRI": "",
+    "BIM": "",
+    "Food safety": "",
+    "lighttype": "LED",
+    "base": "Ejection moulded polycarbonate or polystyrene",
+    "image": "/Images/Products/Products/LMX.jpg",
+    "imagealt": "LMX LED Emergency Lighting",
+    "datasheetimg": [
+      "/Images/Products/Datasheets_jpg/LMX.jpg"
+    ],
+    "datasheetimgalt": [
+      "LMX LED Datasheet"
+    ],
+    "datasheetpdf": "/Data/Datasheets_pdf/LMX.pdf",
+    "commercialpoints": [
+      "Interior surface",
+      "Emergency -3h"
+    ],
+    "description": "",
+    "options": [
+      ""
+    ],
+    "optionsalt": [
+      ""
+    ]
+  },
+  {
+    "index": 21,
+    "name": "LPX",
+    "category": "Street lighting",
+    "CE": "Yes",
+    "Fireproof": "",
+    "Environment": "",
+    "Heat resistance": "",
+    "IP": [
+      "IP65"
+    ],
+    "IK": "",
+    "EN": [
+      "EN 60598"
+    ],
+    "CLASS": "",
+    "CRI": "",
+    "BIM": "",
+    "Food safety": "",
+    "lighttype": "LED",
+    "base": "Polyester base",
+    "image": "/Images/Products/Products/LPX.jpg",
+    "imagealt": "LPX Street Lighting",
+    "datasheetimg": [
+      "/Images/Products/Datasheets_jpg/LPX.jpg",
+      "/Images/Products/Datasheets_jpg/LPX2.jpg"
+    ],
+    "datasheetimgalt": [
+      "LPX Datasheet page 1",
+      "LPX Datasheet page 2"
+    ],
+    "datasheetpdf": "/Data/Datasheets_pdf/LPX.pdf",
+    "commercialpoints": [
+      "Street Lighting",
+      "Polyester base"
+    ],
+    "description": "",
+    "options": [
+      "/Images/Products/Options/access_21.jpg",
+      "/Images/Products/Options/access_20.jpg",
+      "/Images/Products/Options/access_23.jpg"
+    ],
+    "optionsalt": [
+      "Pole Top (60 to 76)",
+      "Wall Mounting Bracket",
+      "Side Entry (42 to 60)"
+    ]
+  }
+]

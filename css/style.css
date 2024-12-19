@@ -1,0 +1,62 @@
+/* This is our main css file */
+
+/* --- Imports --- */
+@import url('fonts.css');
+@import url('navbar.css');
+@import url('carousel.css');
+@import url('footer.css');
+@import url('index.css');
+@import url('privacy.css');
+@import url('contact.css');
+@import url('product.css');
+@import url('catalogue.css');
+@import url('projects.css');
+@import url('team.css');
+@import url('history.css');
+@import url('downloads.css');
+@import url('services.css');
+@import url('profiles.css');
+
+/* ***** GENERAL ***** */
+
+.makeitfit{
+    margin-left: 0px;
+    margin-right: -15px;
+}
+
+.button{
+    background-color: ghostwhite;
+    border-radius: 5px;
+    border-color:darkgray;
+    cursor: pointer;
+    z-index: 2000;
+}
+
+.title{
+    font-family: montserrat-regular;
+    color: darkgrey;
+}
+
+
+.linkstyle{
+    text-decoration: none;
+    color: black;
+}
+
+.linkstyle li a{
+    text-decoration: none;
+    color: black;
+}
+
+
+.img-fit-parent{
+    width: 100%;
+    height: 100%;
+    object-fit:cover;
+    margin: 0;
+    padding:0;
+}
+
+.liststyle{
+    list-style: none;
+}

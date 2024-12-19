@@ -1,0 +1,61 @@
+.historystyle1{
+    background-color: ghostwhite;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.historystyle2{
+    flex-direction: row-reverse;
+    background-color: antiquewhite;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* Text Styling */
+.textfitter {
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 50px;
+}
+
+/* Ensure each section has flex display */
+.historystyle1, .historystyle2 {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    height: 100%;
+}
+
+.imagehistory {
+    /*width: 100%;
+    max-width: 400px;
+    height: auto; 
+    object-fit: cover; */
+    height: 100%;
+        width: 100%;
+        object-fit: cover;
+}
+
+/* Responsive Design */
+@media (max-width: 950px) and (min-width: 576px){
+    .imagehistory{
+        height: 100%;
+        width: 100%;
+        object-fit: cover;
+    }
+}
+
+@media (max-width: 576px) {
+    .historystyle1, .historystyle2 {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .imagehistory {
+        width: 100%;
+        height: auto; /* Keep height responsive */
+        max-width: 600px;
+    }
+}

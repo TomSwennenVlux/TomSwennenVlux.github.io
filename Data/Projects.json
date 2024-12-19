@@ -1,0 +1,165 @@
+[
+    {
+        "index": "1",
+        "name": "Stadium Stayen KSTVV - Parking",
+        "country": "Belgium",
+        "city": "Sint-Truiden",
+        "product": ["Futurix LED"],
+        "coverimage": "/Images/Projects/Project_21.jpg",
+        "detailimages": ["/Images/Projects/Project_21big.jpg"]
+    },
+    {
+        "index": "2",
+        "name": "Parking",
+        "country": "Luxembourg",
+        "city": "Mersch",
+        "product": ["Futurix LED"],
+        "coverimage": "/Images/Projects/Project_22.jpg",
+        "detailimages": ["/Images/Projects/Project_22big.jpg"]
+    },
+    {
+        "index": "3",
+        "name": "Qatar Science and Technology park",
+        "country": "Qatar",
+        "city": "Doha",
+        "product": ["Futurix-IDP-Downlights"],
+        "coverimage": "/Images/Projects/Project_15.jpg",
+        "detailimages": [""]
+    },
+    {
+        "index": "4",
+        "name": "IKEA store Istanbul",
+        "country": "Turkey",
+        "city": "Istanbul",
+        "product": ["LiLi"],
+        "coverimage": "/Images/Projects/Project_12.jpg",
+        "detailimages": [""]
+    },
+    {
+        "index": "5",
+        "name": "Fishermen warf",
+        "country": "Norway",
+        "city": "/",
+        "product": ["Futurix LED"],
+        "coverimage": "/Images/Projects/Project_01.jpg",
+        "detailimages": [""]
+    },
+    {
+        "index": "6",
+        "name": "IKEA store Hasselt",
+        "country": "Belgium",
+        "city": "Hasselt",
+        "product": ["Futurix LED"],
+        "coverimage": "/Images/Projects/Project_20.jpg",
+        "detailimages": ["/Images/Projects/Project_20big.jpg"]
+    },
+    {
+        "index": "7",
+        "name": "Suvarnabhumi Airport",
+        "country": "Thailand",
+        "city": "Bangkok",
+        "product": ["PAS"],
+        "coverimage": "/Images/Projects/Project_11.jpg",
+        "detailimages": [""]
+    },
+    {
+        "index": "8",
+        "name": "Dubai Airport, Terminal II",
+        "country": "U.A.E.",
+        "city": "Dubai",
+        "product": ["Futurix"],
+        "coverimage": "/Images/Projects/Project_06.jpg",
+        "detailimages": [""]
+    },
+    {
+        "index": "9",
+        "name": "Apartheid Museum",
+        "country": "South Africa",
+        "city": "Gauteng",
+        "product": ["PAS - IP67"],
+        "coverimage": "/Images/Projects/Project_02.jpg",
+        "detailimages": ["/Images/Projects/Project_02_01.jpg","/Images/Projects/Project_02_02.jpg","/Images/Projects/Project_02_03.jpg","/Images/Projects/Project_02_04.jpg"]
+    },
+    {
+        "index": "10",
+        "name": "'Sports City' Tower",
+        "country": "Qatar",
+        "city": "Doha",
+        "product": ["Futurix"],
+        "coverimage": "/Images/Projects/Project_08.jpg",
+        "detailimages": ["/Images/Projects/Project_08_01.jpg"]
+    },
+    {
+        "index": "11",
+        "name": "Coal Mine Terminal",
+        "country": "Estonia",
+        "city": "/",
+        "product": ["LPX"],
+        "coverimage": "/Images/Projects/Project_03.jpg",
+        "detailimages": ["/Images/Projects/Project_03_01.jpg","/Images/Projects/Project_03_02.jpg","/Images/Projects/Project_03_03.jpg","/Images/Projects/Project_03_04.jpg"]
+    },
+    {
+        "index": "12",
+        "name": "Snowdome Dubai",
+        "country": "U.A.E.",
+        "city": "Dubai",
+        "product": ["PAS"],
+        "coverimage": "/Images/Projects/Project_09.jpg",
+        "detailimages": [""]
+    },
+    {
+        "index": "13",
+        "name": "Loading Docks - Eurotunnel",
+        "country": "United Kingdom",
+        "city": "Folkstone",
+        "product": ["PAS - IP67"],
+        "coverimage": "/Images/Projects/Project_04.jpg",
+        "detailimages": ["/Images/Projects/Project_04_01.jpg","/Images/Projects/Project_04_02.jpg","/Images/Projects/Project_04_03.jpg"]
+    },
+    {
+        "index": "14",
+        "name": "Railway Station",
+        "country": "Belgium",
+        "city": "Brussels",
+        "product": ["Custom Project"],
+        "coverimage": "/Images/Projects/Project_10.jpg",
+        "detailimages": ["/Images/Projects/Project_10_01.jpg","/Images/Projects/Project_10_02.jpg","/Images/Projects/Project_10_03.jpg"]
+    },
+    {
+        "index": "15",
+        "name": "Offices",
+        "country": "South Africa",
+        "city": "/",
+        "product": ["LiLi"],
+        "coverimage": "/Images/Projects/Project_13.jpg",
+        "detailimages": [""]
+    },
+    {
+        "index": "16",
+        "name": "Moscows White House",
+        "country": "Russian Federation",
+        "city": "Moscow",
+        "product": ["INW","IDP"],
+        "coverimage": "/Images/Projects/Project_07.jpg",
+        "detailimages": [""]
+    },
+    {
+        "index": "17",
+        "name": "Residential Lighting",
+        "country": "Czech Republic",
+        "city": "/",
+        "product": ["RLX","LPX"],
+        "coverimage": "/Images/Projects/Project_05.jpg",
+        "detailimages": [""]
+    },
+    {
+        "index": "18",
+        "name": "Brico store",
+        "country": "Belgium",
+        "city": "/",
+        "product": ["ELX"],
+        "coverimage": "/Images/Projects/Brico1.jpg",
+        "detailimages": ["/Images/Projects/Brico2.jpg","/Images/Projects/Brico3.jpg"]
+    }
+
+]

@@ -1,0 +1,40 @@
+/* ***** INDEX PAGE ***** */
+
+.textarea{
+    background-color: ghostwhite;
+    margin:0;
+    padding: 25px;
+}
+
+.listarea{
+    padding: 20px;
+    margin-left: 25px;
+    width: 350px;
+    list-style:none;
+    background-color: antiquewhite;
+}
+
+.Carouselelement{
+    background-color: antiquewhite;
+    height: 100%;
+    width: 100%;
+}
+
+.spacer{
+    padding: 0px !important;
+}
+
+.carouselbackground{
+    background-color: ghostwhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+/* --- Different media sizes --- */
+@media (max-width: 576px) {
+    .listarea{
+        width: 90%;
+    }
+}

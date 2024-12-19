@@ -1,0 +1,68 @@
+.productSizer{
+    width: 100%;
+    max-width: 1200px;
+    height: auto;
+}
+
+.imageContainer{
+    display: flex;
+    justify-content: center; /* Align images horizontally */
+    align-items: center; /* Align images vertically */
+    flex-wrap: wrap;
+}
+
+/* Modal container styles */
+.modal {
+    display: none;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 90%; /* Makes the modal fit smaller screens */
+    max-width: 600px; /* Limits the maximum width */
+    background-color: rgba(0, 0, 0, 0.5);
+    align-items: center;
+    z-index: 1000;
+    margin-left: 0em;
+}
+
+.modal-centerer{
+    padding-left: 50%;
+    
+}
+
+
+/* Modal content box */
+.modal-content {
+    background-color: white;
+    padding: 20px;
+    margin: 70px 5px;
+    border-radius: 8px;
+    width: 100%; /* Ensures modal is responsive */
+    text-align: center;
+}
+
+/* Modal title */
+.modal-title {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+/* Images container */
+.options-images-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    gap: 10px;
+    justify-items: center;
+}
+
+.option-img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+}
+
+.option-img:hover {
+    transform: scale(1.05);
+}

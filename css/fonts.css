@@ -1,0 +1,175 @@
+
+/* This file contains all options with our fonts */
+
+/* --- ROBOTO for regular text--- */
+.roboto-thin {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+  }
+
+  .roboto-light {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .roboto-regular {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .roboto-medium {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  .roboto-bold {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .roboto-black {
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+  }
+  
+  .roboto-thin-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: italic;
+  }
+  
+  .roboto-light-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+  }
+  
+  .roboto-regular-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .roboto-medium-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: italic;
+  }
+  
+  .roboto-bold-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+  
+  .roboto-black-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: italic;
+  }
+
+/* --- MONTSERRAT for titles and captions--- */
+
+  .montserrat-thin {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+  }
+  
+  .montserrat-light {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .montserrat-regular {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .montserrat-bold {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+
+  /* --- RALEWAY for navigation--- */
+
+  .raleway-thin {
+    font-family: "Raleway", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+}
+
+.raleway-light {
+    font-family: "Raleway", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.raleway-regular {
+    font-family: "Raleway", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.raleway-medium {
+    font-family: "Raleway", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.raleway-bold {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.raleway-black {
+    font-family: "Raleway", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+}
+
+.raleway-thin-italic {
+    font-family: "Raleway", sans-serif;
+    font-weight: 100;
+    font-style: italic;
+}
+
+.raleway-light-italic {
+    font-family: "Raleway", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.raleway-regular-italic {
+    font-family: "Raleway", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.raleway-medium-italic {
+    font-family: "Raleway", sans-serif;
+    font-weight: 500;
+    font-style: italic;
+}
+
+.raleway-bold-italic {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+}
+
+.raleway-black-italic {
+    font-family: "Raleway", sans-serif;
+    font-weight: 900;
+    font-style: italic;
+}

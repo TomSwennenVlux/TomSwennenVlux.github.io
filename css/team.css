@@ -1,0 +1,85 @@
+.team-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.team-card {
+    display: flex;
+    background-color: ghostwhite;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+    flex: 0 1 calc(50% - 16px);
+    max-width: 600px;
+    min-width: 300px;
+    height: 250px; /* Set a fixed height */
+}
+
+@media (max-width: 750px) {
+    .team-card {
+        display: flex;
+        background-color: ghostwhite;
+        border: 1px solid #ddd;
+        border-radius: 8px;
+        overflow: hidden;
+        flex: 0 1 calc(50% - 16px);
+        max-width: 600px;
+        min-width: 400px;
+        height: 300px; /* Set a fixed height */
+    }
+
+}
+
+.team-card-content {
+    padding: 16px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start; /* Space out content evenly */
+    width: 100%;
+}
+
+.team-card-image {
+    width: 150px;
+    height: 100%; /* Scale image to match card height */
+    object-fit: cover;
+}
+
+
+.team-card-content h5 {
+    margin-bottom: 8px;
+    font-size: 1.25rem;
+    color: #333;
+}
+
+.team-card-content p {
+    margin: 4px 0;
+    font-size: 0.9rem;
+    color: #555;
+}
+
+.team-card-content a {
+    text-decoration: none;
+    color: black;
+}
+
+.team-card-content a:hover {
+    text-decoration: underline;
+}
+
+.titlebackground{
+    background-color: antiquewhite;
+    margin: -16px;
+    margin-bottom: 16px;
+    padding: 16px;
+}
+
+.teamicons{
+    filter: brightness(150%) sepia();
+}
+
+.teamicons2{
+    filter: brightness(75%) sepia();
+}

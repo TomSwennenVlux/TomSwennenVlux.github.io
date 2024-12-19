@@ -1,0 +1,23 @@
+[
+    {
+        "index": 1,
+        "image": "/Images/Index/Carousel/FTX ECOLED.jpg",
+        "title": "Futurix",
+        "alt": "The future of weatherproof lighting",
+        "link": "/Html/Product.html?productIndex=16"
+    },
+    {
+        "index": 2,
+        "image": "/Images/Index/Carousel/LILI.jpg",
+        "title": "LiLi",
+        "alt": "An elegant lighting solution for offices, stores, schools and more",
+        "link": "/Html/Product.html?productIndex=19"
+    },
+    {
+        "index": 3,
+        "image": "/Images/Index/Carousel/CLX.jpg",
+        "title": "CLX Street Lighting",
+        "alt": "Unbeatable quality with IP65 rating",
+        "link": "/Html/Product.html?productIndex=4"
+    }
+]

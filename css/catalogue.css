@@ -1,0 +1,65 @@
+/*.cardtitlebackground{
+    background-color: antiquewhite;
+    width: 100%;
+    height: 100%;
+    margin-top: -16px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: -16px;
+    padding-left: 10px;
+}*/
+
+.card-body{
+    /*padding: 0;
+    margin: -16px;
+    margin-bottom: 10px;*/
+    background-color: ghostwhite;
+    padding:0 !important;
+    padding-bottom: 20px !important;
+    width: 100%;
+    height: 10rem;
+    border-radius: 5px;
+}
+
+.cardtitlebackground {
+    background-color: antiquewhite;
+    width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+/* Prevent focus outline and blue background on accordion button */
+.accordion-button:focus {
+    outline: none;
+    box-shadow: none;
+    background-color: transparent;
+}
+
+/* Optionally style the accordion button */
+.accordion-button {
+    background-color: transparent;
+    border: 1px solid #ccc;
+}
+
+.accordion-button:not(.collapsed){
+    background-color: transparent !important;
+}
+
+.cardcolorer{
+    background-color: ghostwhite;
+}
+
+.card{
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.card-img-top{
+    /*height: 155px !important;
+    width: auto;*/
+}

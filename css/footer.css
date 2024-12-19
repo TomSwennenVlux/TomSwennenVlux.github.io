@@ -1,0 +1,59 @@
+/* --- FOOTER --- */
+
+/* --- General footer style --- */
+.footerstyle
+{
+    font-family: roboto-regular;
+}
+
+/* --- Newsletter --- */
+.signupform{
+    padding: 50px !important;
+background-color: antiquewhite;
+max-height: 350px;
+}
+
+.signupart{
+padding: 0 !important;
+max-height: 350px;
+}
+
+/* --- Logo --- */
+.logo img{
+    height: 75px;
+    width: auto;
+    align-content: center;
+}
+
+.underlogo{
+    font-size: 0.8rem;
+    padding-left: 12px;
+    color: darkgray;
+}
+
+/* --- Site tree cleaner --- */
+
+.sitetree{
+    list-style: none;
+}
+
+.sitetree .listsitetree
+{
+    list-style: none;
+}
+
+.sitetree ul li a{
+    text-decoration: none;
+    color: black;
+}
+
+/* --- Contact info --- */
+.contactinfo ul li{
+    list-style: none;
+}
+
+/* --- Copyright --- */
+.copyright p a{
+    text-decoration: none;
+    color: black;
+}

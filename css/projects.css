@@ -1,0 +1,36 @@
+.project-img-sizer{
+    width: 100%; /* Fills the parent container */
+        height: 100%; /* Fills the parent container */
+        object-fit: cover; /* Maintains aspect ratio and crops if necessary */
+        display: block;
+}
+
+.no-padding{
+    padding: 0;
+}
+
+.projecttitlebackground{
+    background-color: antiquewhite;
+    width: 100%; /* This will match the width of .card-body */
+    height: auto; /* Adjust as needed */
+    margin: 0px;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+.view-details-icon {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    font-size: 1.5rem;
+    cursor: pointer;
+    filter: brightness(150%) sepia();
+}
+
+.card[data-bs-toggle="modal"] {
+    cursor: pointer;
+}
+
+.cardcolorer{
+    background-color: ghostwhite;
+}

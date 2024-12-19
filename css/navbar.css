@@ -1,0 +1,59 @@
+/* --- Navbar --- */
+.navbar{
+    margin-bottom:-15px;
+}
+
+.brand-logo {
+    width: 160px;
+    height: 72.5px;
+}
+
+.active {
+    position: relative; /* Context for the pseudo-element */
+    font-weight: 600; /* Bold text */
+}
+
+.active::after {
+    content: ''; /* Empty content for the underline */
+    position: absolute; /* Position it absolutely */
+    left: 0; /* Align to the left */
+    bottom: 0px; /* Position just below the text */
+    width: 100%; /* Use full width of the text */
+    height: 2px; /* Height of the underline */
+    background-color: black; /* Color of the underline */
+    transition: transform 0.3s ease; /* Animate the transform instead of width */
+    transform: scaleX(0); /* Start with no visible underline */
+}
+
+/* Make the underline visible when the parent is active */
+.active:hover::after,
+.active::after {
+    transform: scaleX(1); /* Show the underline */
+}
+
+.animated-underline {
+    position: relative; /* Create a positioning context for the pseudo-element */
+    text-decoration: none; /* Remove the default underline */
+    color: black; /* Set your link color */
+}
+
+.animated-underline::after {
+    content: ''; /* Create an empty pseudo-element */
+    position: absolute; /* Position it absolutely */
+    left: 0; /* Align to the left of the link */
+    bottom: 0; /* Position it at the bottom of the link */
+    width: 100%; /* Set to 100% to cover the text */
+    height: 2px; /* Height of the underline */
+    background-color: black; /* Color of the underline */
+    transform: scaleX(0); /* Start with no visible underline */
+    transition: transform 0.3s ease; /* Animation duration and timing */
+}
+
+/* Optionally, on hover, you can set the scale to 1 to show the underline */
+.animated-underline:hover::after {
+    transform: scaleX(1); /* Make the underline visible on hover */
+}
+
+.nav-item{
+    width: fit-content;
+}

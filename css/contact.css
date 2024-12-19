@@ -1,0 +1,35 @@
+.antiquewhite{
+    padding: 50px !important;
+    background-color: antiquewhite;
+}
+
+.ghostwhite{
+    padding: 50px !important;
+    background-color: ghostwhite;
+}
+
+.contactimgSizer{
+    padding: 0;
+    margin: 0;
+    display: flex;
+    align-items: flex-start;
+    }
+
+.contactimg{
+    width: 100%;
+    max-width: 546px;
+    height: 100%;
+    max-height: 686;
+    object-fit:cover;
+    margin: 0;
+    padding:0;
+    }
+
+    .form-control-width{
+/*width: 300px !important;*/
+width: 100%;
+    }
+
+    .submit{
+        width: 100px;
+    }
