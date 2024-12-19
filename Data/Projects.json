@@ -158,8 +158,8 @@
         "country": "Belgium",
         "city": "/",
         "product": ["ELX"],
-        "coverimage": "/Images/Projects/Brico1.jpg",
-        "detailimages": ["/Images/Projects/Brico2.jpg","/Images/Projects/Brico3.jpg"]
+        "coverimage": "/Images/Projects/Brico1.JPG",
+        "detailimages": ["/Images/Projects/Brico2.JPG","/Images/Projects/Brico3.JPG"]
     }
 
 ]
