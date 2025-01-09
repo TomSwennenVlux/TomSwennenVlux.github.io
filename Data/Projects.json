@@ -160,6 +160,15 @@
         "product": ["ELX"],
         "coverimage": "/Images/Projects/Brico1.JPG",
         "detailimages": ["/Images/Projects/Brico2.JPG","/Images/Projects/Brico3.JPG"]
+    },
+    {
+        "index": "19",
+        "name": "School",
+        "country": "Belgium",
+        "city": "/",
+        "product": ["ELX"],
+        "coverimage": "/Images/Projects/Project_23_01.jpg",
+        "detailimages": ["/Images/Projects/Project_23_02","/Images/Projects/Project_23_03.jpg","/Images/Projects/Project_23_04.jpg"]
     }
 
 ]
