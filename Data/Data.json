@@ -1046,5 +1046,137 @@
       "Wall Mounting Bracket",
       "Side Entry (42 to 60)"
     ]
+  },
+  {
+    "index": 22,
+    "name": "PAC",
+    "category": "Weatherproof",
+    "CE": "Yes",
+    "Fireproof": "Yes",
+    "Environment": "",
+    "Heat resistance": "",
+    "IP": [
+      "IP65"
+    ],
+    "IK": "",
+    "EN": [
+      "EN 60598"
+    ],
+    "CLASS": "Class II",
+    "CRI": "",
+    "BIM": "",
+    "Food safety": "",
+    "lighttype": "Fluorescent",
+    "base": "Glass reinforced polyester",
+    "image": "/Images/Products/Products/PAC.jpg",
+    "imagealt": "PAC Weatherproof",
+    "datasheetimg": [
+      "/Images/Products/Datasheets_jpg/PAC.jpg",
+      "/Images/Products/Datasheets_jpg/PAC2.jpg"
+    ],
+    "datasheetimgalt": [
+      "PAC Datasheet page 1",
+      "PAC Datasheet page 2"
+    ],
+    "datasheetpdf": "/Data/Datasheets_pdf/PAC.pdf",
+    "commercialpoints": [
+      "Weatherproof IP65",
+      "Polyester base"
+    ],
+    "description": "",
+    "options": [
+      "/Images/Products/Options/access_11.jpg",
+      "/Images/Products/Options/access_14.jpg",
+      "/Images/Products/Options/access_15.jpg",
+      "/Images/Products/Options/access_03.jpg",
+      "/Images/Products/Options/access_06.jpg",
+      "/Images/Products/Options/access_17.jpg",
+      "/Images/Products/Options/access_29.jpg",
+      "/Images/Products/Options/access_01.jpg",
+      "/Images/Products/Options/access_30.jpg",
+      "/Images/Products/Options/access_02.jpg",
+      "/Images/Products/Options/access_05.jpg",
+      "/Images/Products/Options/access_18.jpg"
+    ],
+    "optionsalt": [
+      "Susp.bracket 1L",
+      "Susp.bracket 2L",
+      "Susp.bracket+wire br.",
+      "Eyelet M5",
+      "Stainless steel clip",
+      "Vandalproof screw",
+      "St. Steel Clip Retainer",
+      "Cable gland",
+      "Quick Conn. Grommet",
+      "Emergency modules",
+      "Through Wiring",
+      "Electronic & elec. Dim"
+    ]
+  },
+  {
+    "index": 22,
+    "name": "PAC LED",
+    "category": "Weatherproof",
+    "CE": "Yes",
+    "Fireproof": "Yes",
+    "Environment": "",
+    "Heat resistance": "",
+    "IP": [
+      "IP65"
+    ],
+    "IK": "",
+    "EN": [
+      "EN 60598"
+    ],
+    "CLASS": "Class II",
+    "CRI": "",
+    "BIM": "",
+    "Food safety": "",
+    "lighttype": "LED",
+    "base": "Glass reinforced polyester",
+    "image": "/Images/Products/Products/PAC_Led.jpg",
+    "imagealt": "PAC LED Weatherproof",
+    "datasheetimg": [
+      "/Images/Products/Datasheets_jpg/PAC Led1.jpg",
+      "/Images/Products/Datasheets_jpg/PAC Led2.jpg"
+    ],
+    "datasheetimgalt": [
+      "PAC LED Datasheet page 1",
+      "PAC LED Datasheet page 2"
+    ],
+    "datasheetpdf": "/Data/Datasheets_pdf/PAC LED.pdf",
+    "commercialpoints": [
+      "Weatherproof IP65",
+      "Polyester base"
+    ],
+    "description": "",
+    "options": [
+      "/Images/Products/Options/access_11.jpg",
+      "/Images/Products/Options/access_14.jpg",
+      "/Images/Products/Options/access_15.jpg",
+      "/Images/Products/Options/access_03.jpg",
+      "/Images/Products/Options/access_06.jpg",
+      "/Images/Products/Options/access_17.jpg",
+      "/Images/Products/Options/access_29.jpg",
+      "/Images/Products/Options/access_01.jpg",
+      "/Images/Products/Options/access_30.jpg",
+      "/Images/Products/Options/access_02.jpg",
+      "/Images/Products/Options/access_05.jpg",
+      "/Images/Products/Options/access_18.jpg"
+    ],
+    "optionsalt": [
+      "Susp.bracket 1L",
+      "Susp.bracket 2L",
+      "Susp.bracket+wire br.",
+      "Eyelet M5",
+      "Stainless steel clip",
+      "Vandalproof screw",
+      "St. Steel Clip Retainer",
+      "Cable gland",
+      "Quick Conn. Grommet",
+      "Emergency modules",
+      "Through Wiring",
+      "Electronic & elec. Dim"
+    ]
   }
 ]
