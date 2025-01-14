@@ -2,7 +2,7 @@
   {
     "index": 1,
     "name": "BHX",
-    "category": "Interior surface",
+    "category": ["Interior Surface"],
     "CE": "Yes",
     "Fireproof": "Yes",
     "Environment": "",
@@ -32,7 +32,7 @@
     ],
     "datasheetpdf": "/Data/Datasheets_pdf/BHX.pdf",
     "commercialpoints": [
-      "Interior surface",
+      "Interior Surface",
       "Polycarbonate base"
     ],
     "description": "",
@@ -46,7 +46,7 @@
   {
     "index": 2,
     "name": "BHX+",
-    "category": "Interior surface",
+    "category": ["Interior Surface"],
     "CE": "Yes",
     "Fireproof": "Yes",
     "Environment": "",
@@ -76,7 +76,7 @@
     ],
     "datasheetpdf": "/Data/Datasheets_pdf/BHX+.pdf",
     "commercialpoints": [
-      "Interior surface",
+      "Interior Surface",
       "Pre-mounting bracket"
     ],
     "description": "",
@@ -90,7 +90,7 @@
   {
     "index": 3,
     "name": "BPI",
-    "category": "Weatherproof",
+    "category": ["Weatherproof"],
     "CE": "Yes",
     "Fireproof": "Yes",
     "Environment": "",
@@ -120,7 +120,7 @@
     ],
     "datasheetpdf": "/Data/Datasheets_pdf/BPI.pdf",
     "commercialpoints": [
-      "Interior surface",
+      "Interior Surface",
       "Polyester base"
     ],
     "description": "",
@@ -134,7 +134,7 @@
   {
     "index": 4,
     "name": "CLX",
-    "category": "Street lighting",
+    "category": ["Street lighting"],
     "CE": "Yes",
     "Fireproof": "",
     "Environment": "",
@@ -178,7 +178,7 @@
   {
     "index": 5,
     "name": "ECHO LED",
-    "category": "Interior surface",
+    "category": ["Interior Surface"],
     "CE": "Yes",
     "Fireproof": "",
     "Environment": "",
@@ -208,7 +208,7 @@
     ],
     "datasheetpdf": "/Data/Datasheets_pdf/Echo LED.pdf",
     "commercialpoints": [
-      "Interior surface",
+      "Interior Surface",
       "Alum louver"
     ],
     "description": "",
@@ -222,7 +222,7 @@
   {
     "index": 6,
     "name": "ECLIPS LED",
-    "category": "Interior surface",
+    "category": ["Interior Surface"],
     "CE": "Yes",
     "Fireproof": "Yes",
     "Environment": "",
@@ -250,7 +250,7 @@
     ],
     "datasheetpdf": "/Data/Datasheets_pdf/Eclips LED.pdf",
     "commercialpoints": [
-      "Interior surface",
+      "Interior Surface",
       "Alum Cat2 louver"
     ],
     "description": "",
@@ -264,7 +264,7 @@
   {
     "index": 7,
     "name": "EMX",
-    "category": "Emergency",
+    "category": ["Emergency","Interior Surface"],
     "CE": "Yes",
     "Fireproof": "Yes",
     "Environment": "",
@@ -294,7 +294,7 @@
     ],
     "datasheetpdf": "/Data/Datasheets_pdf/EMX.pdf",
     "commercialpoints": [
-      "Interior surface",
+      "Interior Surface",
       "Emergency -3h"
     ],
     "description": "",
@@ -326,7 +326,7 @@
   {
     "index": 8,
     "name": "EMX LED",
-    "category": "Emergency",
+    "category": ["Emergency","Interior Surface"],
     "CE": "Yes",
     "Fireproof": "Yes",
     "Environment": "",
@@ -356,7 +356,7 @@
     ],
     "datasheetpdf": "/Data/Datasheets_pdf/EMX.pdf",
     "commercialpoints": [
-      "Interior surface",
+      "Interior Surface",
       "Emergency -3h"
     ],
     "description": "",
@@ -388,7 +388,7 @@
   {
     "index": 9,
     "name": "ELX LED Access",
-    "category": "Interior surface",
+    "category": ["Interior Surface"],
     "CE": "Yes",
     "Fireproof": "",
     "Environment": "LSOH",
@@ -419,7 +419,7 @@
     ],
     "datasheetpdf": "/Data/Datasheets_pdf/ELX Access.pdf",
     "commercialpoints": [
-      "Interior surface"
+      "Interior Surface"
     ],
     "description": "",
     "options": [
@@ -432,7 +432,7 @@
   {
     "index": 10,
     "name": "ELX LED Access Ecoline",
-    "category": "Interior surface",
+    "category": ["Interior Surface"],
     "CE": "Yes",
     "Fireproof": "",
     "Environment": "RoHS",
@@ -463,7 +463,7 @@
     ],
     "datasheetpdf": "/Data/Datasheets_pdf/ELX Access Ecoline.pdf",
     "commercialpoints": [
-      "Interior surface"
+      "Interior Surface"
     ],
     "description": "",
     "options": [
@@ -476,7 +476,7 @@
   {
     "index": 11,
     "name": "ELX LED LINO",
-    "category": "Interior surface",
+    "category": ["Interior Surface"],
     "CE": "Yes",
     "Fireproof": "",
     "Environment": "LSOH",
@@ -507,7 +507,7 @@
     ],
     "datasheetpdf": "/Data/Datasheets_pdf/ELX Lino.pdf",
     "commercialpoints": [
-      "Interior surface"
+      "Interior Surface"
     ],
     "description": "",
     "options": [
@@ -520,7 +520,7 @@
   {
     "index": 12,
     "name": "Futurix",
-    "category": "Weatherproof",
+    "category": ["Weatherproof"],
     "CE": "Yes",
     "Fireproof": "Yes",
     "Environment": "",
@@ -562,7 +562,7 @@
   {
     "index": 13,
     "name": "Futurix-PC",
-    "category": "Weatherproof",
+    "category": ["Weatherproof"],
     "CE": "Yes",
     "Fireproof": "Yes",
     "Environment": "",
@@ -622,7 +622,7 @@
   {
     "index": 14,
     "name": "Futurix-PC Color",
-    "category": "Weatherproof",
+    "category": ["Weatherproof"],
     "CE": "Yes",
     "Fireproof": "Yes",
     "Environment": "",
@@ -682,7 +682,7 @@
   {
     "index": 15,
     "name": "Futurix LED",
-    "category": "Weatherproof",
+    "category": ["Weatherproof"],
     "CE": "Yes",
     "Fireproof": "",
     "Environment": "LSOH",
@@ -747,7 +747,7 @@
   {
     "index": 16,
     "name": "Futurix Ecoline",
-    "category": "Weatherproof",
+    "category": ["Weatherproof"],
     "CE": "Yes",
     "Fireproof": "Yes",
     "Environment": "",
@@ -810,7 +810,7 @@
   {
     "index": 17,
     "name": "Futurix LED HT",
-    "category": "Weatherproof",
+    "category": ["Weatherproof"],
     "CE": "Yes",
     "Fireproof": "",
     "Environment": "LSOH",
@@ -874,7 +874,7 @@
   {
     "index": 18,
     "name": "LILI-EM",
-    "category": "Emergency",
+    "category": ["Emergency","Interior Surface"],
     "CE": "Yes",
     "Fireproof": "Yes",
     "Environment": "",
@@ -902,7 +902,7 @@
     ],
     "datasheetpdf": "/Data/Datasheets_pdf/Lili-EM.pdf",
     "commercialpoints": [
-      "Interior surface",
+      "Interior Surface",
       "Emergency -3h"
     ],
     "description": "",
@@ -916,7 +916,7 @@
   {
     "index": 19,
     "name": "LILI-LED",
-    "category": "Interior surface",
+    "category": ["Interior Surface"],
     "CE": "Yes",
     "Fireproof": "Yes",
     "Environment": "",
@@ -946,7 +946,7 @@
     ],
     "datasheetpdf": "/Data/Datasheets_pdf/LILI LED.pdf",
     "commercialpoints": [
-      "Interior surface",
+      "Interior Surface",
       "Emergency -3h"
     ],
     "description": "",
@@ -960,7 +960,7 @@
   {
     "index": 20,
     "name": "LMX LED",
-    "category": "Emergency",
+    "category": ["Emergency","Interior Surface"],
     "CE": "Yes",
     "Fireproof": "Yes",
     "Environment": "",
@@ -988,7 +988,7 @@
     ],
     "datasheetpdf": "/Data/Datasheets_pdf/LMX.pdf",
     "commercialpoints": [
-      "Interior surface",
+      "Interior Surface",
       "Emergency -3h"
     ],
     "description": "",
@@ -1002,7 +1002,7 @@
   {
     "index": 21,
     "name": "LPX",
-    "category": "Street lighting",
+    "category": ["Street lighting"],
     "CE": "Yes",
     "Fireproof": "",
     "Environment": "",
@@ -1050,7 +1050,7 @@
   {
     "index": 22,
     "name": "PAC",
-    "category": "Weatherproof",
+    "category": ["Weatherproof"],
     "CE": "Yes",
     "Fireproof": "Yes",
     "Environment": "",
@@ -1116,7 +1116,7 @@
   {
     "index": 22,
     "name": "PAC LED",
-    "category": "Weatherproof",
+    "category": ["Weatherproof"],
     "CE": "Yes",
     "Fireproof": "Yes",
     "Environment": "",
@@ -1177,6 +1177,813 @@
       "Emergency modules",
       "Through Wiring",
       "Electronic & elec. Dim"
+    ]
+  },
+  {
+    "index": 23,
+    "name": "PAS",
+    "category": ["Weatherproof"],
+    "CE": "Yes",
+    "Fireproof": "Yes",
+    "Environment": "",
+    "Heat resistance": "",
+    "IP": [
+      "IP65",
+      "IP67"
+    ],
+    "IK": "",
+    "EN": [
+      "ENEC"
+    ],
+    "CLASS": "Class II",
+    "CRI": "",
+    "BIM": "",
+    "Food safety": "",
+    "lighttype": "Fluorescent",
+    "base": "Glass reinforced polyester",
+    "image": "/Images/Products/Products/PAS.jpg",
+    "imagealt": "PAS Fluorescent Weatherproof",
+    "datasheetimg": [
+      "/Images/Products/Datasheets_jpg/PAS.jpg",
+      "/Images/Products/Datasheets_jpg/PAS2.jpg"
+    ],
+    "datasheetimgalt": [
+      "PAS Fluorescent Datasheet page 1",
+      "PAS Fluorescent Datasheet page 2"
+    ],
+    "datasheetpdf": "/Data/Datasheets_pdf/PAS.pdf",
+    "commercialpoints": [
+      "Weatherproof IP65/67",
+      "Polyester base"
+    ],
+    "description": "",
+    "options": [
+      "/Images/Products/Options/access_11.jpg",
+      "/Images/Products/Options/access_14.jpg",
+      "/Images/Products/Options/access_15.jpg",
+      "/Images/Products/Options/access_03.jpg",
+      "/Images/Products/Options/access_06.jpg",
+      "/Images/Products/Options/access_17.jpg",
+      "/Images/Products/Options/access_29.jpg",
+      "/Images/Products/Options/access_01.jpg",
+      "/Images/Products/Options/access_30.jpg",
+      "/Images/Products/Options/access_02.jpg",
+      "/Images/Products/Options/access_05.jpg",
+      "/Images/Products/Options/access_18.jpg"
+    ],
+    "optionsalt": [
+      "Susp.bracket 1L",
+      "Susp.bracket 2L",
+      "Susp.bracket+wire br.",
+      "Eyelet M5",
+      "Stainless steel clip",
+      "Vandalproof screw",
+      "St. Steel Clip Retainer",
+      "Cable gland",
+      "Quick Conn. Grommet",
+      "Emergency modules",
+      "Through Wiring",
+      "Electronic & elec. Dim"
+    ]
+  },
+  {
+    "index": 24,
+    "name": "PAS LED",
+    "category": ["Weatherproof"],
+    "CE": "Yes",
+    "Fireproof": "Yes",
+    "Environment": "LSOH",
+    "Heat resistance": "",
+    "IP": [
+      "IP65",
+      "IP67"
+    ],
+    "IK": "",
+    "EN": [
+      "ENEC02"
+    ],
+    "CLASS": "Class II",
+    "CRI": "",
+    "BIM": "BIM DWG(3D)",
+    "Food safety": "",
+    "lighttype": "LED",
+    "base": "Glass reinforced polyester",
+    "image": "/Images/Products/Products/PAS Led.jpg",
+    "imagealt": "PAS Fluorescent Weatherproof",
+    "datasheetimg": [
+      "/Images/Products/Datasheets_jpg/PAS Led1.jpg",
+      "/Images/Products/Datasheets_jpg/PAS Led2.jpg",
+      "/Images/Products/Datasheets_jpg/PAS Led3.jpg"
+    ],
+    "datasheetimgalt": [
+      "PAS Led Datasheet page 1",
+      "PAS Led Datasheet page 2",
+      "PAS Led Datasheet page 3"
+    ],
+    "datasheetpdf": "/Data/Datasheets_pdf/PAS Led.pdf",
+    "commercialpoints": [
+      "Weatherproof IP65/67",
+      "Polyester base"
+    ],
+    "description": "",
+    "options": [
+      "/Images/Products/Options/access_11.jpg",
+      "/Images/Products/Options/access_14.jpg",
+      "/Images/Products/Options/access_15.jpg",
+      "/Images/Products/Options/access_03.jpg",
+      "/Images/Products/Options/access_06.jpg",
+      "/Images/Products/Options/access_17.jpg",
+      "/Images/Products/Options/access_29.jpg",
+      "/Images/Products/Options/access_01.jpg",
+      "/Images/Products/Options/access_30.jpg",
+      "/Images/Products/Options/access_02.jpg",
+      "/Images/Products/Options/access_05.jpg",
+      "/Images/Products/Options/access_18.jpg"
+    ],
+    "optionsalt": [
+      "Susp.bracket 1L",
+      "Susp.bracket 2L",
+      "Susp.bracket+wire br.",
+      "Eyelet M5",
+      "Stainless steel clip",
+      "Vandalproof screw",
+      "St. Steel Clip Retainer",
+      "Cable gland",
+      "Quick Conn. Grommet",
+      "Emergency modules",
+      "Through Wiring",
+      "Electronic & elec. Dim"
+    ]
+  },
+  {
+    "index": 25,
+    "name": "PAS LED Fridge",
+    "category": ["Weatherproof"],
+    "CE": "Yes",
+    "Fireproof": "Yes",
+    "Environment": "LSOH",
+    "Heat resistance": "",
+    "IP": [
+      "IP65",
+      "IP67"
+    ],
+    "IK": "",
+    "EN": [
+      ""
+    ],
+    "CLASS": "",
+    "CRI": "",
+    "BIM": "",
+    "Food safety": "",
+    "lighttype": "LED",
+    "base": "Glass reinforced polyester",
+    "image": "/Images/Products/Products/PAS Led.jpg",
+    "imagealt": "PAS Fridge",
+    "datasheetimg": [
+      "/Images/Products/Datasheets_jpg/PAS Fridge1.jpg",
+      "/Images/Products/Datasheets_jpg/PAS Fridge2.jpg",
+      "/Images/Products/Datasheets_jpg/PAS Fridge3.jpg"
+    ],
+    "datasheetimgalt": [
+      "PAS Led Fridge Datasheet page 1",
+      "PAS Led Fridge Datasheet page 2",
+      "PAS Led Fridge Datasheet page 3"
+    ],
+    "datasheetpdf": "/Data/Datasheets_pdf/PAS Fridge.pdf",
+    "commercialpoints": [
+      "Weatherproof IP65/67",
+      "Cold environments"
+    ],
+    "description": "",
+    "options": [
+      ""
+    ],
+    "optionsalt": [
+      ""
+    ]
+  },
+  {
+    "index": 26,
+    "name": "PAS LED Farm",
+    "category": ["Weatherproof"],
+    "CE": "Yes",
+    "Fireproof": "Yes",
+    "Environment": "",
+    "Heat resistance": "",
+    "IP": [
+      "IP67"
+    ],
+    "IK": "",
+    "EN": [
+      ""
+    ],
+    "CLASS": "",
+    "CRI": "",
+    "BIM": "",
+    "Food safety": "",
+    "lighttype": "LED",
+    "base": "Glass reinforced polyester",
+    "image": "/Images/Products/Products/PAS FARM Led.jpg",
+    "imagealt": "PAS Farm",
+    "datasheetimg": [
+      "/Images/Products/Datasheets_jpg/PAS FARM Led.jpg",
+      "/Images/Products/Datasheets_jpg/PAS FARM Led2.jpg"
+    ],
+    "datasheetimgalt": [
+      "PAS Led Fridge Datasheet page 1",
+      "PAS Led Fridge Datasheet page 2"
+    ],
+    "datasheetpdf": "/Data/Datasheets_pdf/PAS FARM Led.pdf",
+    "commercialpoints": [
+      "Weatherproof IP67",
+      "Agricultural environments"
+    ],
+    "description": "",
+    "options": [
+      ""
+    ],
+    "optionsalt": [
+      ""
+    ]
+  },
+  {
+    "index": 27,
+    "name": "PLedX",
+    "category": ["Weatherproof"],
+    "CE": "Yes",
+    "Fireproof": "Yes",
+    "Environment": "LSOH",
+    "Heat resistance": "",
+    "IP": [
+      "IP65"
+    ],
+    "IK": "",
+    "EN": [
+      "ENEC02"
+    ],
+    "CLASS": "",
+    "CRI": "",
+    "BIM": "",
+    "Food safety": "",
+    "lighttype": "LED",
+    "base": "Glass reinforced polyester",
+    "image": "/Images/Products/Products/PLedX.jpg",
+    "imagealt": "PLedX Weatherproof",
+    "datasheetimg": [
+      "/Images/Products/Datasheets_jpg/PLedX.jpg",
+      "/Images/Products/Datasheets_jpg/PLedX2.jpg"
+    ],
+    "datasheetimgalt": [
+      "PLedX Datasheet page 1",
+      "PLedX Datasheet page 2"
+    ],
+    "datasheetpdf": "/Data/Datasheets_pdf/PLedX.pdf",
+    "commercialpoints": [
+      "Weatherproof IP65",
+      "Polyester base"
+    ],
+    "description": "",
+    "options": [
+      "/Images/Products/Options/access_11.jpg",
+      "/Images/Products/Options/access_14.jpg",
+      "/Images/Products/Options/access_15.jpg",
+      "/Images/Products/Options/access_03.jpg",
+      "/Images/Products/Options/access_06.jpg",
+      "/Images/Products/Options/access_17.jpg",
+      "/Images/Products/Options/access_29.jpg",
+      "/Images/Products/Options/access_01.jpg",
+      "/Images/Products/Options/access_30.jpg",
+      "/Images/Products/Options/access_02.jpg",
+      "/Images/Products/Options/access_05.jpg",
+      "/Images/Products/Options/access_18.jpg"
+    ],
+    "optionsalt": [
+      "Susp.bracket 1L",
+      "Susp.bracket 2L",
+      "Susp.bracket+wire br.",
+      "Eyelet M5",
+      "Stainless steel clip",
+      "Vandalproof screw",
+      "St. Steel Clip Retainer",
+      "Cable gland",
+      "Quick Conn. Grommet",
+      "Emergency modules",
+      "Through Wiring",
+      "Electronic & elec. Dim"
+    ]
+  },
+  {
+    "index": 28,
+    "name": "PLX",
+    "category": ["Weatherproof"],
+    "CE": "Yes",
+    "Fireproof": "Yes",
+    "Environment": "",
+    "Heat resistance": "",
+    "IP": [
+      "IP65"
+    ],
+    "IK": "",
+    "EN": [
+      "ENEC"
+    ],
+    "CLASS": "Class II",
+    "CRI": "",
+    "BIM": "",
+    "Food safety": "",
+    "lighttype": "Fluorescent",
+    "base": "Glass reinforced polyester",
+    "image": "/Images/Products/Products/PLX.jpg",
+    "imagealt": "PLX Weatherproof",
+    "datasheetimg": [
+      "/Images/Products/Datasheets_jpg/PLX.jpg",
+      "/Images/Products/Datasheets_jpg/PLX2.jpg"
+    ],
+    "datasheetimgalt": [
+      "PLX Datasheet page 1",
+      "PLX Datasheet page 2"
+    ],
+    "datasheetpdf": "/Data/Datasheets_pdf/PLX.pdf",
+    "commercialpoints": [
+      "Weatherproof IP65",
+      "Polyester base"
+    ],
+    "description": "",
+    "options": [
+      "/Images/Products/Options/access_11.jpg",
+      "/Images/Products/Options/access_14.jpg",
+      "/Images/Products/Options/access_15.jpg",
+      "/Images/Products/Options/access_03.jpg",
+      "/Images/Products/Options/access_06.jpg",
+      "/Images/Products/Options/access_17.jpg",
+      "/Images/Products/Options/access_29.jpg",
+      "/Images/Products/Options/access_01.jpg",
+      "/Images/Products/Options/access_30.jpg",
+      "/Images/Products/Options/access_02.jpg",
+      "/Images/Products/Options/access_05.jpg",
+      "/Images/Products/Options/access_18.jpg"
+    ],
+    "optionsalt": [
+      "Susp.bracket 1L",
+      "Susp.bracket 2L",
+      "Susp.bracket+wire br.",
+      "Eyelet M5",
+      "Stainless steel clip",
+      "Vandalproof screw",
+      "St. Steel Clip Retainer",
+      "Cable gland",
+      "Quick Conn. Grommet",
+      "Emergency modules",
+      "Through Wiring",
+      "Electronic & elec. Dim"
+    ]
+  },
+  {
+    "index": 29,
+    "name": "Quattro",
+    "category": ["Weatherproof"],
+    "CE": "Yes",
+    "Fireproof": "Yes",
+    "Environment": "",
+    "Heat resistance": "",
+    "IP": [
+      "IP66",
+      "IP67"
+    ],
+    "IK": "",
+    "EN": [
+      ""
+    ],
+    "CLASS": "",
+    "CRI": "",
+    "BIM": "",
+    "Food safety": "",
+    "lighttype": "Fluorescent",
+    "base": "Glass reinforced polyester",
+    "image": "/Images/Products/Products/Quattro.jpg",
+    "imagealt": "Quattro Weatherproof",
+    "datasheetimg": [
+      "/Images/Products/Datasheets_jpg/QUATTRO.jpg",
+      "/Images/Products/Datasheets_jpg/QUATTRO2.jpg"
+    ],
+    "datasheetimgalt": [
+      "QUATTRO Datasheet page 1",
+      "QUATTRO Datasheet page 2"
+    ],
+    "datasheetpdf": "/Data/Datasheets_pdf/QUATTRO.pdf",
+    "commercialpoints": [
+      "Weatherproof IP66/67",
+      "Polyester base"
+    ],
+    "description": "",
+    "options": [
+      ""
+    ],
+    "optionsalt": [
+      ""
+    ]
+  },
+  {
+    "index": 30,
+    "name": "RES Led",
+    "category": ["Interior Recessed"],
+    "CE": "Yes",
+    "Fireproof": "Yes",
+    "Environment": "",
+    "Heat resistance": "",
+    "IP": [
+      "IP40"
+    ],
+    "IK": "",
+    "EN": [
+      "EN 60598",
+      "ENEC"
+    ],
+    "CLASS": "Class II",
+    "CRI": "",
+    "BIM": "",
+    "Food safety": "",
+    "lighttype": "LED",
+    "base": "White powder coated aluminium",
+    "image": "/Images/Products/Products/RES.jpg",
+    "imagealt": "RES LED Interior Recessed",
+    "datasheetimg": [
+      "/Images/Products/Datasheets_jpg/RES.jpg"
+    ],
+    "datasheetimgalt": [
+      "RES LED Datasheet page 1",
+      "RES LED Datasheet page 2"
+    ],
+    "datasheetpdf": "/Data/Datasheets_pdf/RES.pdf",
+    "commercialpoints": [
+      "Interior Recessed",
+      "LED Panel"
+    ],
+    "description": "",
+    "options": [
+      ""
+    ],
+    "optionsalt": [
+      ""
+    ]
+  },
+  {
+    "index": 31,
+    "name": "RLG LED",
+    "category": ["Interior Recessed"],
+    "CE": "Yes",
+    "Fireproof": "Yes",
+    "Environment": "",
+    "Heat resistance": "",
+    "IP": [
+      "IP20"
+    ],
+    "IK": "",
+    "EN": [
+      "EN 60598"
+    ],
+    "CLASS": "",
+    "CRI": "",
+    "BIM": "",
+    "Food safety": "",
+    "lighttype": "LED",
+    "base": "White powder coated steel",
+    "image": "/Images/Products/Products/RLG.jpg",
+    "imagealt": "RLG LED Interior Recessed",
+    "datasheetimg": [
+      "/Images/Products/Datasheets_jpg/RLG.jpg"
+    ],
+    "datasheetimgalt": [
+      "RLG Datasheet page 1",
+      "RLG Datasheet page 2"
+    ],
+    "datasheetpdf": "/Data/Datasheets_pdf/RLG.pdf",
+    "commercialpoints": [
+      "Interior Recessed",
+      "LED Panel"
+    ],
+    "description": "",
+    "options": [
+      ""
+    ],
+    "optionsalt": [
+      ""
+    ]
+  },
+  {
+    "index": 32,
+    "name": "SUR LED",
+    "category": ["Interior Recessed"],
+    "CE": "Yes",
+    "Fireproof": "Yes",
+    "Environment": "",
+    "Heat resistance": "",
+    "IP": [
+      "IP40"
+    ],
+    "IK": "",
+    "EN": [
+      "EN 60598"
+    ],
+    "CLASS": "",
+    "CRI": "",
+    "BIM": "",
+    "Food safety": "",
+    "lighttype": "LED",
+    "base": "Anodized aluminium",
+    "image": "/Images/Products/Products/SUR.jpg",
+    "imagealt": "SUR LED Interior Recessed",
+    "datasheetimg": [
+      "/Images/Products/Datasheets_jpg/SUR.jpg"
+    ],
+    "datasheetimgalt": [
+      "SUR Datasheet page 1",
+      "SUR Datasheet page 2"
+    ],
+    "datasheetpdf": "/Data/Datasheets_pdf/SUR.pdf",
+    "commercialpoints": [
+      "Interior Recessed",
+      "LED Panel"
+    ],
+    "description": "",
+    "options": [
+      ""
+    ],
+    "optionsalt": [
+      ""
+    ]
+  },
+  {
+    "index": 33,
+    "name": "TLX",
+    "category": ["Interior Surface"],
+    "CE": "Yes",
+    "Fireproof": "",
+    "Environment": "",
+    "Heat resistance": "",
+    "IP": [
+      "IP20"
+    ],
+    "IK": "",
+    "EN": [
+      "EN 62471 RGO"
+    ],
+    "CLASS": "",
+    "CRI": "",
+    "BIM": "",
+    "Food safety": "",
+    "lighttype": "LED",
+    "base": "White powder coated steel",
+    "image": "/Images/Products/Products/TLX.jpg",
+    "imagealt": "TLX Interior Surface",
+    "datasheetimg": [
+      "/Images/Products/Datasheets_jpg/TLX.jpg"
+    ],
+    "datasheetimgalt": [
+      "TLX Datasheet page 1",
+      "TLX Datasheet page 2"
+    ],
+    "datasheetpdf": "/Data/Datasheets_pdf/TLX.pdf",
+    "commercialpoints": [
+      "Interior Surface",
+      "IP20"
+    ],
+    "description": "",
+    "options": [
+      ""
+    ],
+    "optionsalt": [
+      ""
+    ]
+  },
+  {
+    "index": 34,
+    "name": "Tube 80",
+    "category": ["Weatherproof"],
+    "CE": "Yes",
+    "Fireproof": "",
+    "Environment": "LSOH",
+    "Heat resistance": "",
+    "IP": [
+      "IP67",
+      "IP69K"
+    ],
+    "IK": "IK10",
+    "EN": [
+      "EN 62471 RGO"
+    ],
+    "CLASS": "",
+    "CRI": "",
+    "BIM": "",
+    "Food safety": "",
+    "lighttype": "LED",
+    "base": "Polycarbonate base",
+    "image": "/Images/Products/Products/TBX80.jpg",
+    "imagealt": "Tube 80",
+    "datasheetimg": [
+      "/Images/Products/Datasheets_jpg/TUBE80-1.jpg",
+      "/Images/Products/Datasheets_jpg/TUBE80-2.jpg",
+      "/Images/Products/Datasheets_jpg/TUBE80-3.jpg"
+    ],
+    "datasheetimgalt": [
+      "Tube80 Datasheet page 1",
+      "Tube80 Datasheet page 2",
+      "Tube80 Datasheet page 3"
+    ],
+    "datasheetpdf": "/Data/Datasheets_pdf/TUBE80.pdf",
+    "commercialpoints": [
+      "Weatherproof",
+      "IP67"
+    ],
+    "description": "",
+    "options": [
+      ""
+    ],
+    "optionsalt": [
+      ""
+    ]
+  },
+  {
+    "index": 35,
+    "name": "Tube 80 Ecoline",
+    "category": [
+      "Weatherproof",
+      "Emergency"
+    ],
+    "CE": "Yes",
+    "Fireproof": "",
+    "Environment": "LSOH",
+    "Heat resistance": "",
+    "IP": [
+      "IP67",
+      "IP69K"
+    ],
+    "IK": "IK10",
+    "EN": [
+      "EN 62471 RGO"
+    ],
+    "CLASS": "",
+    "CRI": "",
+    "BIM": "",
+    "Food safety": "",
+    "lighttype": "LED",
+    "base": "Polycarbonate base",
+    "image": "/Images/Products/Products/TBX80.jpg",
+    "imagealt": "Tube 80 Ecoline",
+    "datasheetimg": [
+      "/Images/Products/Datasheets_jpg/TUBE80 ecoline1.jpg",
+      "/Images/Products/Datasheets_jpg/TUBE80 ecoline2.jpg",
+      "/Images/Products/Datasheets_jpg/TUBE80 ecoline3.jpg"
+    ],
+    "datasheetimgalt": [
+      "Tube80 ecoline Datasheet page 1",
+      "Tube80 ecoline Datasheet page 2",
+      "Tube80 ecoline Datasheet page 3"
+    ],
+    "datasheetpdf": "/Data/Datasheets_pdf/TUBE80 ecoline.pdf",
+    "commercialpoints": [
+      "Weatherproof IP65",
+      "Emergency"
+    ],
+    "description": "",
+    "options": [
+      ""
+    ],
+    "optionsalt": [
+      ""
+    ]
+  },
+  {
+    "index": 36,
+    "name": "Tube Led EM",
+    "category": ["Weatherproof","Emergency"],
+    "CE": "Yes",
+    "Fireproof": "",
+    "Environment": "LSOH",
+    "Heat resistance": "",
+    "IP": [
+      "IP67",
+      "IP69K"
+    ],
+    "IK": "IK10",
+    "EN": [
+      "EN 62471 RGO"
+    ],
+    "CLASS": "",
+    "CRI": "",
+    "BIM": "",
+    "Food safety": "",
+    "lighttype": "LED",
+    "base": "Polycarbonate base",
+    "image": "/Images/Products/Products/TBX80.jpg",
+    "imagealt": "Tube 80 Ecoline",
+    "datasheetimg": [
+      "/Images/Products/Datasheets_jpg/TUBE80 ecoline1.jpg",
+      "/Images/Products/Datasheets_jpg/TUBE80 ecoline2.jpg",
+      "/Images/Products/Datasheets_jpg/TUBE80 ecoline3.jpg"
+    ],
+    "datasheetimgalt": [
+      "Tube80 ecoline Datasheet page 1",
+      "Tube80 ecoline Datasheet page 2",
+      "Tube80 ecoline Datasheet page 3"
+    ],
+    "datasheetpdf": "/Data/Datasheets_pdf/TUBE80 ecoline.pdf",
+    "commercialpoints": [
+      "Weatherproof IP65",
+      "Emergency"
+    ],
+    "description": "",
+    "options": [
+      ""
+    ],
+    "optionsalt": [
+      ""
+    ]
+  },
+  {
+    "index": 37,
+    "name": "VEL LED",
+    "category": ["Interior Surface","Emergency"],
+    "CE": "Yes",
+    "Fireproof": "Yes",
+    "Environment": "",
+    "Heat resistance": "",
+    "IP": [
+      "IP65"
+    ],
+    "IK": "",
+    "EN": [
+      "BSI/EN 60598.2.22"
+    ],
+    "CLASS": "Class II",
+    "CRI": "",
+    "BIM": "",
+    "Food safety": "",
+    "lighttype": "LED",
+    "base": "ABS base",
+    "image": "/Images/Products/Products/VEL.jpg",
+    "imagealt": "VEL LED",
+    "datasheetimg": [
+      "/Images/Products/Datasheets_jpg/VEL.jpg"
+    ],
+    "datasheetimgalt": [
+      "VEL Datasheet page 1"
+    ],
+    "datasheetpdf": "/Data/Datasheets_pdf/VEL.pdf",
+    "commercialpoints": [
+      "Interior Surface",
+      "Emergency"
+    ],
+    "description": "",
+    "options": [
+      ""
+    ],
+    "optionsalt": [
+      ""
+    ]
+  },
+  {
+    "index": 38,
+    "name": "WKX",
+    "category": ["Interior Surface"],
+    "CE": "Yes",
+    "Fireproof": "Yes",
+    "Environment": "",
+    "Heat resistance": "",
+    "IP": [
+      "IP20"
+    ],
+    "IK": "",
+    "EN": [
+      ""
+    ],
+    "CLASS": "",
+    "CRI": "",
+    "BIM": "",
+    "Food safety": "",
+    "lighttype": "Fluorescent",
+    "base": "White Stove Enamelled Base",
+    "image": "/Images/Products/Products/WKX.jpg",
+    "imagealt": "WKX",
+    "datasheetimg": [
+      "/Images/Products/Datasheets_jpg/WKX.jpg",
+      "/Images/Products/Datasheets_jpg/WKX2.jpg"
+    ],
+    "datasheetimgalt": [
+      "WKX Datasheet page 1",
+      "WKX Datasheet page 2"
+    ],
+    "datasheetpdf": "/Data/Datasheets_pdf/WKX.pdf",
+    "commercialpoints": [
+      "Interior Surface",
+      "White Coated Steel"
+    ],
+    "description": "",
+    "options": [
+      ""
+    ],
+    "optionsalt": [
+      ""
     ]
   }
 ]
