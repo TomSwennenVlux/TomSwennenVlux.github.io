@@ -1114,7 +1114,7 @@
     ]
   },
   {
-    "index": 22,
+    "index": 23,
     "name": "PAC LED",
     "category": ["Weatherproof"],
     "CE": "Yes",
@@ -1180,7 +1180,7 @@
     ]
   },
   {
-    "index": 23,
+    "index": 24,
     "name": "PAS",
     "category": ["Weatherproof"],
     "CE": "Yes",
@@ -1247,7 +1247,7 @@
     ]
   },
   {
-    "index": 24,
+    "index": 25,
     "name": "PAS LED",
     "category": ["Weatherproof"],
     "CE": "Yes",
@@ -1316,7 +1316,7 @@
     ]
   },
   {
-    "index": 25,
+    "index": 26,
     "name": "PAS LED Fridge",
     "category": ["Weatherproof"],
     "CE": "Yes",
@@ -1363,7 +1363,7 @@
     ]
   },
   {
-    "index": 26,
+    "index": 27,
     "name": "PAS LED Farm",
     "category": ["Weatherproof"],
     "CE": "Yes",
@@ -1407,7 +1407,7 @@
     ]
   },
   {
-    "index": 27,
+    "index": 28,
     "name": "PLedX",
     "category": ["Weatherproof"],
     "CE": "Yes",
@@ -1473,7 +1473,7 @@
     ]
   },
   {
-    "index": 28,
+    "index": 29,
     "name": "PLX",
     "category": ["Weatherproof"],
     "CE": "Yes",
@@ -1539,7 +1539,7 @@
     ]
   },
   {
-    "index": 29,
+    "index": 30,
     "name": "Quattro",
     "category": ["Weatherproof"],
     "CE": "Yes",
@@ -1584,7 +1584,7 @@
     ]
   },
   {
-    "index": 30,
+    "index": 31,
     "name": "RES Led",
     "category": ["Interior Recessed"],
     "CE": "Yes",
@@ -1628,7 +1628,7 @@
     ]
   },
   {
-    "index": 31,
+    "index": 32,
     "name": "RLG LED",
     "category": ["Interior Recessed"],
     "CE": "Yes",
@@ -1671,7 +1671,7 @@
     ]
   },
   {
-    "index": 32,
+    "index": 33,
     "name": "SUR LED",
     "category": ["Interior Recessed"],
     "CE": "Yes",
@@ -1714,7 +1714,7 @@
     ]
   },
   {
-    "index": 33,
+    "index": 34,
     "name": "TLX",
     "category": ["Interior Surface"],
     "CE": "Yes",
@@ -1757,7 +1757,7 @@
     ]
   },
   {
-    "index": 34,
+    "index": 35,
     "name": "Tube 80",
     "category": ["Weatherproof"],
     "CE": "Yes",
@@ -1804,7 +1804,7 @@
     ]
   },
   {
-    "index": 35,
+    "index": 36,
     "name": "Tube 80 Ecoline",
     "category": [
       "Weatherproof",
@@ -1854,7 +1854,7 @@
     ]
   },
   {
-    "index": 36,
+    "index": 37,
     "name": "Tube Led EM",
     "category": ["Weatherproof","Emergency"],
     "CE": "Yes",
@@ -1901,7 +1901,7 @@
     ]
   },
   {
-    "index": 37,
+    "index": 38,
     "name": "VEL LED",
     "category": ["Interior Surface","Emergency"],
     "CE": "Yes",
@@ -1943,7 +1943,7 @@
     ]
   },
   {
-    "index": 38,
+    "index": 39,
     "name": "WKX",
     "category": ["Interior Surface"],
     "CE": "Yes",
