@@ -2,61 +2,61 @@
     {
         "index": 8,
         "category": "Flat Profiles",
-        "fileSmall": "/Images/Services/ProfileExtrusion/p06k.jpg",
-        "fileBig": "/Images/Services/ProfileExtrusion/p06g.jpg"
+        "fileSmall": "/Images/Services/ProfileExtrusion/P06k.jpg",
+        "fileBig": "/Images/Services/ProfileExtrusion/P06g.jpg"
     },
     {
         "index": 9,
         "category": "Flat Profiles",
-        "fileSmall": "/Images/Services/ProfileExtrusion/p08k.jpg",
-        "fileBig": "/Images/Services/ProfileExtrusion/p08g.jpg"
+        "fileSmall": "/Images/Services/ProfileExtrusion/P08k.jpg",
+        "fileBig": "/Images/Services/ProfileExtrusion/P08g.jpg"
     },
     {
         "index": 11,
         "category": "Rounded Profiles",
-        "fileSmall": "/Images/Services/ProfileExtrusion/p50k.jpg",
-        "fileBig": "/Images/Services/ProfileExtrusion/p50g.jpg"
+        "fileSmall": "/Images/Services/ProfileExtrusion/P50k.jpg",
+        "fileBig": "/Images/Services/ProfileExtrusion/P50g.jpg"
     },
     {
         "index": 13,
         "category": "Rounded Profiles",
-        "fileSmall": "/Images/Services/ProfileExtrusion/p55k.jpg",
-        "fileBig": "/Images/Services/ProfileExtrusion/p55g.jpg"
+        "fileSmall": "/Images/Services/ProfileExtrusion/P55k.jpg",
+        "fileBig": "/Images/Services/ProfileExtrusion/P55g.jpg"
     },
     {
         "index": 15,
         "category": "Rounded Profiles",
-        "fileSmall": "/Images/Services/ProfileExtrusion/p70k.jpg",
-        "fileBig": "/Images/Services/ProfileExtrusion/p70g.jpg"
+        "fileSmall": "/Images/Services/ProfileExtrusion/P70k.jpg",
+        "fileBig": "/Images/Services/ProfileExtrusion/P70g.jpg"
     },
     {
         "index": 22,
         "category": "Rounded Profiles",
-        "fileSmall": "/Images/Services/ProfileExtrusion/p86k.jpg",
-        "fileBig": "/Images/Services/ProfileExtrusion/p86g.jpg"
+        "fileSmall": "/Images/Services/ProfileExtrusion/P86k.jpg",
+        "fileBig": "/Images/Services/ProfileExtrusion/P86g.jpg"
     },
     {
         "index": 23,
         "category": "Assymetric Profiles",
-        "fileSmall": "/Images/Services/ProfileExtrusion/p97k.jpg",
-        "fileBig": "/Images/Services/ProfileExtrusion/p97g.jpg"
+        "fileSmall": "/Images/Services/ProfileExtrusion/P97k.jpg",
+        "fileBig": "/Images/Services/ProfileExtrusion/P97g.jpg"
     },
     {
         "index": 24,
         "category": "Rounded Profiles",
-        "fileSmall": "/Images/Services/ProfileExtrusion/p98k.jpg",
-        "fileBig": "/Images/Services/ProfileExtrusion/p98g.jpg"
+        "fileSmall": "/Images/Services/ProfileExtrusion/P98k.jpg",
+        "fileBig": "/Images/Services/ProfileExtrusion/P98g.jpg"
     },
     {
         "index": 25,
         "category": "Rounded Profiles",
-        "fileSmall": "/Images/Services/ProfileExtrusion/p99k.jpg",
-        "fileBig": "/Images/Services/ProfileExtrusion/p99g.jpg"
+        "fileSmall": "/Images/Services/ProfileExtrusion/P99k.jpg",
+        "fileBig": "/Images/Services/ProfileExtrusion/P99g.jpg"
     },
     {
         "index": 26,
         "category": "Rounded Profiles",
-        "fileSmall": "/Images/Services/ProfileExtrusion/p100k.jpg",
-        "fileBig": "/Images/Services/ProfileExtrusion/p100g.jpg"
+        "fileSmall": "/Images/Services/ProfileExtrusion/P100k.jpg",
+        "fileBig": "/Images/Services/ProfileExtrusion/P100g.jpg"
     }
 ]
