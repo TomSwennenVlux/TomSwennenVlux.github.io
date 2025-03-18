@@ -88,50 +88,6 @@
     ]
   },
   {
-    "index": 3,
-    "name": "BPI",
-    "category": ["Weatherproof"],
-    "CE": "Yes",
-    "Fireproof": "Yes",
-    "Environment": "",
-    "Heat resistance": "",
-    "IP": [
-      "IP65"
-    ],
-    "IK": "",
-    "EN": [
-      "EN 60598"
-    ],
-    "CLASS": "Class II",
-    "CRI": "",
-    "BIM": "",
-    "Food safety": "",
-    "lighttype": "Fluorescent",
-    "base": "Glass reinforced polyester",
-    "image": "/Images/Products/Products/BPI.jpg",
-    "imagealt": "BPI Weatherproof Lighting Solution",
-    "datasheetimg": [
-      "/Images/Products/Datasheets_jpg/BPI.jpg",
-      "/Images/Products/Datasheets_jpg/BPI2.jpg"
-    ],
-    "datasheetimgalt": [
-      "Datasheet BPI page 1",
-      "Datasheet BPI page 2"
-    ],
-    "datasheetpdf": "/Data/Datasheets_pdf/BPI.pdf",
-    "commercialpoints": [
-      "Interior Surface",
-      "Polyester base"
-    ],
-    "description": "",
-    "options": [
-      ""
-    ],
-    "optionsalt": [
-      ""
-    ]
-  },
-  {
     "index": 4,
     "name": "CLX",
     "category": ["Street lighting"],
@@ -1933,50 +1889,6 @@
     "commercialpoints": [
       "Interior Surface",
       "Emergency"
-    ],
-    "description": "",
-    "options": [
-      ""
-    ],
-    "optionsalt": [
-      ""
-    ]
-  },
-  {
-    "index": 39,
-    "name": "WKX",
-    "category": ["Interior Surface"],
-    "CE": "Yes",
-    "Fireproof": "Yes",
-    "Environment": "",
-    "Heat resistance": "",
-    "IP": [
-      "IP20"
-    ],
-    "IK": "",
-    "EN": [
-      ""
-    ],
-    "CLASS": "",
-    "CRI": "",
-    "BIM": "",
-    "Food safety": "",
-    "lighttype": "Fluorescent",
-    "base": "White Stove Enamelled Base",
-    "image": "/Images/Products/Products/WKX.jpg",
-    "imagealt": "WKX",
-    "datasheetimg": [
-      "/Images/Products/Datasheets_jpg/WKX.jpg",
-      "/Images/Products/Datasheets_jpg/WKX2.jpg"
-    ],
-    "datasheetimgalt": [
-      "WKX Datasheet page 1",
-      "WKX Datasheet page 2"
-    ],
-    "datasheetpdf": "/Data/Datasheets_pdf/WKX.pdf",
-    "commercialpoints": [
-      "Interior Surface",
-      "White Coated Steel"
     ],
     "description": "",
     "options": [
