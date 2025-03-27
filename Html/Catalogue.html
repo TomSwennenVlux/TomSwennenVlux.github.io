@@ -372,46 +372,28 @@
     function generateFilters(data) {
     const categories = new Set();
     const lightTypes = new Set();
-    const ceSet = new Set();
-    const fireproofSet = new Set();
-    const environmentSet = new Set();
-    const heatResistanceSet = new Set();
     const ipSet = new Set();
     const ikSet = new Set();
     const enSet = new Set();
-    const classSet = new Set();
     const criSet = new Set();
-    const bimSet = new Set();
     const foodSafetySet = new Set();
 
     data.forEach(article => {
         if (article.category) article.category.forEach(cat => categories.add(cat));
         if (article.lighttype) lightTypes.add(article.lighttype);
-        if (article.CE) ceSet.add(article.CE);
-        if (article.Fireproof) fireproofSet.add(article.Fireproof);
-        if (article.Environment) environmentSet.add(article.Environment);
-        if (article["Heat resistance"]) heatResistanceSet.add(article["Heat resistance"]);
         if (article.IP) article.IP.forEach(ip => ipSet.add(ip));
         if (article.IK) ikSet.add(article.IK);
         if (article.EN) article.EN.forEach(en => enSet.add(en));
-        if (article.CLASS) classSet.add(article.CLASS);
         if (article.CRI) criSet.add(article.CRI);
-        if (article.BIM) bimSet.add(article.BIM);
         if (article["Food safety"]) foodSafetySet.add(article["Food safety"]);
     });
 
     populateFilter('categoryFilter', categories);
     populateFilter('lightTypeFilter', lightTypes);
-    populateFilter('ceFilter', ceSet);
-    populateFilter('fireproofFilter', fireproofSet);
-    populateFilter('environmentFilter', environmentSet);
-    populateFilter('heatResistanceFilter', heatResistanceSet);
     populateFilter('ipRatingFilter', ipSet);
     populateFilter('ikRatingFilter', ikSet);
     populateFilter('enFilter', enSet);
-    populateFilter('classFilter', classSet);
     populateFilter('criFilter', criSet);
-    populateFilter('bimFilter', bimSet);
     populateFilter('foodSafetyFilter', foodSafetySet);
 }
 
@@ -433,16 +415,10 @@
     function filterData() {
     const categoryFilter = document.getElementById('categoryFilter').value;
     const lightTypeFilter = document.getElementById('lightTypeFilter').value;
-    const ceFilter = document.getElementById('ceFilter').value;
-    const fireproofFilter = document.getElementById('fireproofFilter').value;
-    const environmentFilter = document.getElementById('environmentFilter').value;
-    const heatResistanceFilter = document.getElementById('heatResistanceFilter').value;
     const ipRatingFilter = document.getElementById('ipRatingFilter').value;
     const ikRatingFilter = document.getElementById('ikRatingFilter').value;
     const enFilter = document.getElementById('enFilter').value;
-    const classFilter = document.getElementById('classFilter').value;
     const criFilter = document.getElementById('criFilter').value;
-    const bimFilter = document.getElementById('bimFilter').value;
     const foodSafetyFilter = document.getElementById('foodSafetyFilter').value;
     const searchQuery = searchBar.value.toLowerCase();
 
@@ -450,16 +426,10 @@
         return (
             (categoryFilter === "" || (article.category && article.category.includes(categoryFilter))) &&
             (lightTypeFilter === "" || article.lighttype === lightTypeFilter) &&
-            (ceFilter === "" || article.CE === ceFilter) &&
-            (fireproofFilter === "" || article.Fireproof === fireproofFilter) &&
-            (environmentFilter === "" || article.Environment === environmentFilter) &&
-            (heatResistanceFilter === "" || article['Heat resistance'] === heatResistanceFilter) &&
             (ipRatingFilter === "" || article.IP.includes(ipRatingFilter)) &&
             (ikRatingFilter === "" || article.IK === ikRatingFilter) &&
             (enFilter === "" || article.EN.includes(enFilter)) &&
-            (classFilter === "" || article.CLASS === classFilter) &&
             (criFilter === "" || article.CRI === criFilter) &&
-            (bimFilter === "" || article.BIM === bimFilter) &&
             (foodSafetyFilter === "" || article['Food safety'] === foodSafetyFilter) &&
             (searchQuery === "" || article.name.toLowerCase().includes(searchQuery))
         );
@@ -472,16 +442,10 @@
     // Add event listeners for filter changes and search
     document.getElementById('categoryFilter').addEventListener('change', filterData);
     document.getElementById('lightTypeFilter').addEventListener('change', filterData);
-    document.getElementById('ceFilter').addEventListener('change', filterData);
-    document.getElementById('fireproofFilter').addEventListener('change', filterData);
-    document.getElementById('environmentFilter').addEventListener('change', filterData);
-    document.getElementById('heatResistanceFilter').addEventListener('change', filterData);
     document.getElementById('ipRatingFilter').addEventListener('change', filterData);
     document.getElementById('ikRatingFilter').addEventListener('change', filterData);
     document.getElementById('enFilter').addEventListener('change', filterData);
-    document.getElementById('classFilter').addEventListener('change', filterData);
     document.getElementById('criFilter').addEventListener('change', filterData);
-    document.getElementById('bimFilter').addEventListener('change', filterData);
     document.getElementById('foodSafetyFilter').addEventListener('change', filterData);
 
     document.getElementById('searchButton').addEventListener('click', filterData); // for search bar
