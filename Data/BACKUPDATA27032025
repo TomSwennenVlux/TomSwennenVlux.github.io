@@ -76,6 +76,44 @@
     ]
   },
   {
+    "index": 4,
+    "name": "CLX",
+    "category": ["Street lighting"],
+    "IP": [
+      "IP65"
+    ],
+    "IK": "",
+    "EN": [
+      "EN 60598"
+    ],
+    "CRI": "",
+    "Food safety": "",
+    "lighttype": "Fluorescent",
+    "base": "Glass reinforced polyester",
+    "image": "/Images/Products/Products/CLX.jpg",
+    "imagealt": "CLX Street Lighting Solution",
+    "datasheetimg": [
+      "/Images/Products/Datasheets_jpg/CLX.jpg",
+      "/Images/Products/Datasheets_jpg/CLX2.jpg"
+    ],
+    "datasheetimgalt": [
+      "Datasheet CLX page 1",
+      "Datasheet CLX page 2"
+    ],
+    "datasheetpdf": "/Data/Datasheets_pdf/CLX.pdf",
+    "commercialpoints": [
+      "Street lighting",
+      "Polyester base"
+    ],
+    "description": "",
+    "options": [
+      ""
+    ],
+    "optionsalt": [
+      ""
+    ]
+  },
+  {
     "index": 5,
     "name": "ECHO LED",
     "category": ["Interior Surface"],
@@ -147,6 +185,62 @@
     ],
     "optionsalt": [
       ""
+    ]
+  },
+  {
+    "index": 7,
+    "name": "EMX",
+    "category": ["Emergency","Interior Surface"],
+    "IP": [
+      "IP65"
+    ],
+    "IK": "",
+    "EN": [
+      "EN 60598"
+    ],
+    "CRI": "",
+    "Food safety": "",
+    "lighttype": "Fluorescent",
+    "base": "Polycarbonate or polystyrene",
+    "image": "/Images/Products/Products/EMX.jpg",
+    "imagealt": "EMX Emergency Lighting Solution",
+    "datasheetimg": [
+      "/Images/Products/Datasheets_jpg/EMX.jpg",
+      "/Images/Products/Datasheets_jpg/EMX2.jpg"
+    ],
+    "datasheetimgalt": [
+      "Datasheet EMX page 1",
+      "Datasheet EMX page 2"
+    ],
+    "datasheetpdf": "/Data/Datasheets_pdf/EMX.pdf",
+    "commercialpoints": [
+      "Interior Surface",
+      "Emergency -3h"
+    ],
+    "description": "",
+    "options": [
+      "/Images/Products/Options/EMX_04.jpg",
+      "/Images/Products/Options/EMX_05.jpg",
+      "/Images/Products/Options/EMX_Sign_08.jpg",
+      "/Images/Products/Options/EMX_Sign_07.jpg",
+      "/Images/Products/Options/EMX_Sign_06.jpg",
+      "/Images/Products/Options/EMX_Sign_04.jpg",
+      "/Images/Products/Options/EMX_Sign_02.jpg",
+      "/Images/Products/Options/EMX_Sign_01.jpg",
+      "/Images/Products/Options/EMX_Sign_03.jpg",
+      "/Images/Products/Options/EMX_Sign_05.jpg"
+    ],
+    "optionsalt": [
+      "Self Test",
+      "Batteries 4/2.2/1.5A",
+      "Emergency Left",
+      "Emergency Right",
+      "Emergency Down",
+      "Door Exit Right",
+      "Exit Left",
+      "Exit Right",
+      "Exit Down",
+      "Door Exit Left"
     ]
   },
   {
@@ -320,6 +414,96 @@
     ]
   },
   {
+    "index": 12,
+    "name": "Futurix",
+    "category": ["Weatherproof"],
+    "IP": [
+      "IP65"
+    ],
+    "IK": "",
+    "EN": [
+      "ENEC"
+    ],
+    "CRI": "",
+    "Food safety": "",
+    "lighttype": "LED",
+    "base": "Polycarbonate",
+    "image": "/Images/Products/Products/FTX.jpg",
+    "imagealt": "Futurix Weatherproof Lighting Solution",
+    "datasheetimg": [
+      "/Images/Products/Datasheets_jpg/FTX.jpg",
+      "/Images/Products/Datasheets_jpg/FTX2.jpg"
+    ],
+    "datasheetimgalt": [
+      "Datasheet Futurix"
+    ],
+    "datasheetpdf": "/Data/Datasheets_pdf/FTX.pdf",
+    "commercialpoints": [
+      "Weatherproof"
+    ],
+    "description": "",
+    "options": [
+      ""
+    ],
+    "optionsalt": [
+      ""
+    ]
+  },
+  {
+    "index": 13,
+    "name": "Futurix-PC",
+    "category": ["Weatherproof"],
+    "IP": [
+      "IP65"
+    ],
+    "IK": "",
+    "EN": [
+      "ENEC"
+    ],
+    "CRI": "",
+    "Food safety": "",
+    "lighttype": "Fluorescent",
+    "base": "Injected polycarbonate",
+    "image": "/Images/Products/Products/FTX PC.jpg",
+    "imagealt": "Futurix-PC Weatherproof Lighting Solution",
+    "datasheetimg": [
+      "/Images/Products/Datasheets_jpg/FTX PC.jpg"
+    ],
+    "datasheetimgalt": [
+      "Datasheet Futurix-PC"
+    ],
+    "datasheetpdf": "/Data/Datasheets_pdf/FTX PC.pdf",
+    "commercialpoints": [
+      "Weatherproof IP65",
+      "Polycarbonate base"
+    ],
+    "description": "",
+    "options": [
+      "/Images/Products/Options/access_05.jpg",
+      "/Images/Products/Options/access_02.jpg",
+      "/Images/Products/Options/access_30.jpg",
+      "/Images/Products/Options/access_01.jpg",
+      "/Images/Products/Options/access_31.jpg",
+      "/Images/Products/Options/access_03.jpg",
+      "/Images/Products/Options/access_07.jpg",
+      "/Images/Products/Options/access_15.jpg",
+      "/Images/Products/Options/access_12.jpg",
+      "/Images/Products/Options/access_13.jpg"
+    ],
+    "optionsalt": [
+      "Through Wiring",
+      "Emergency Modules",
+      "Quick Conn. Grommet",
+      "Cable Gland",
+      "Hingeable Clip (PA)",
+      "Eyelet",
+      "Stainless Steel Clip",
+      "Susp. Bracket Eyelet",
+      "Susp. Bracket 2L",
+      "Susp. Bracket 1L"
+    ]
+  },
+  {
     "index": 14,
     "name": "Futurix-PC Color",
     "category": ["Weatherproof"],
@@ -332,7 +516,7 @@
     ],
     "CRI": "",
     "Food safety": "",
-    "lighttype": "LED",
+    "lighttype": "Fluorescent",
     "base": "Injected polycarbonate",
     "image": "/Images/Products/Products/FTX_Color.jpg",
     "imagealt": "Futurix-PC Color Weatherproof Lighting Solution",
@@ -395,8 +579,7 @@
     "datasheetimg": [
       "/Images/Products/Datasheets_jpg/Futurix LED1.jpg",
       "/Images/Products/Datasheets_jpg/Futurix LED2.jpg",
-      "/Images/Products/Datasheets_jpg/Futurix LED3.jpg",
-      "/Images/Products/Datasheets_jpg/FTX-PC Color.jpg"
+      "/Images/Products/Datasheets_jpg/Futurix LED3.jpg"
     ],
     "datasheetimgalt": [
       "Datasheet Futurix LED page 1",
@@ -453,8 +636,7 @@
     "imagealt": "Futurix Ecoline Weatherproof LED Lighting Solution",
     "datasheetimg": [
       "/Images/Products/Datasheets_jpg/Futurix Ecoline1.jpg",
-      "/Images/Products/Datasheets_jpg/Futurix Ecoline2.jpg",
-      "/Images/Products/Datasheets_jpg/FTX-PC Color.jpg"
+      "/Images/Products/Datasheets_jpg/Futurix Ecoline2.jpg"
     ],
     "datasheetimgalt": [
       "Datasheet Futurix Ecoline page 1",
@@ -512,8 +694,7 @@
     "imagealt": "Futurix LED HT Weatherproof High-Temperature LED Solution",
     "datasheetimg": [
       "/Images/Products/Datasheets_jpg/Futurix LED HT1.jpg",
-      "/Images/Products/Datasheets_jpg/Futurix LED HT2.jpg",
-      "/Images/Products/Datasheets_jpg/FTX-PC Color.jpg"
+      "/Images/Products/Datasheets_jpg/Futurix LED HT2.jpg"
     ],
     "datasheetimgalt": [
       "Datasheet Futurix LED HT page 1",
@@ -661,6 +842,108 @@
     ]
   },
   {
+    "index": 21,
+    "name": "LPX",
+    "category": ["Street lighting"],
+    "IP": [
+      "IP65"
+    ],
+    "IK": "",
+    "EN": [
+      "EN 60598"
+    ],
+    "CRI": "",
+    "Food safety": "",
+    "lighttype": "LED",
+    "base": "Polyester base",
+    "image": "/Images/Products/Products/LPX.jpg",
+    "imagealt": "LPX Street Lighting",
+    "datasheetimg": [
+      "/Images/Products/Datasheets_jpg/LPX.jpg",
+      "/Images/Products/Datasheets_jpg/LPX2.jpg"
+    ],
+    "datasheetimgalt": [
+      "LPX Datasheet page 1",
+      "LPX Datasheet page 2"
+    ],
+    "datasheetpdf": "/Data/Datasheets_pdf/LPX.pdf",
+    "commercialpoints": [
+      "Street Lighting",
+      "Polyester base"
+    ],
+    "description": "",
+    "options": [
+      "/Images/Products/Options/access_21.jpg",
+      "/Images/Products/Options/access_20.jpg",
+      "/Images/Products/Options/access_23.jpg"
+    ],
+    "optionsalt": [
+      "Pole Top (60 to 76)",
+      "Wall Mounting Bracket",
+      "Side Entry (42 to 60)"
+    ]
+  },
+  {
+    "index": 22,
+    "name": "PAC",
+    "category": ["Weatherproof"],
+    "IP": [
+      "IP65"
+    ],
+    "IK": "",
+    "EN": [
+      "EN 60598"
+    ],
+    "CRI": "",
+    "Food safety": "",
+    "lighttype": "Fluorescent",
+    "base": "Glass reinforced polyester",
+    "image": "/Images/Products/Products/PAC.jpg",
+    "imagealt": "PAC Weatherproof",
+    "datasheetimg": [
+      "/Images/Products/Datasheets_jpg/PAC.jpg",
+      "/Images/Products/Datasheets_jpg/PAC2.jpg"
+    ],
+    "datasheetimgalt": [
+      "PAC Datasheet page 1",
+      "PAC Datasheet page 2"
+    ],
+    "datasheetpdf": "/Data/Datasheets_pdf/PAC.pdf",
+    "commercialpoints": [
+      "Weatherproof IP65",
+      "Polyester base"
+    ],
+    "description": "",
+    "options": [
+      "/Images/Products/Options/access_11.jpg",
+      "/Images/Products/Options/access_14.jpg",
+      "/Images/Products/Options/access_15.jpg",
+      "/Images/Products/Options/access_03.jpg",
+      "/Images/Products/Options/access_06.jpg",
+      "/Images/Products/Options/access_17.jpg",
+      "/Images/Products/Options/access_29.jpg",
+      "/Images/Products/Options/access_01.jpg",
+      "/Images/Products/Options/access_30.jpg",
+      "/Images/Products/Options/access_02.jpg",
+      "/Images/Products/Options/access_05.jpg",
+      "/Images/Products/Options/access_18.jpg"
+    ],
+    "optionsalt": [
+      "Susp.bracket 1L",
+      "Susp.bracket 2L",
+      "Susp.bracket+wire br.",
+      "Eyelet M5",
+      "Stainless steel clip",
+      "Vandalproof screw",
+      "St. Steel Clip Retainer",
+      "Cable gland",
+      "Quick Conn. Grommet",
+      "Emergency modules",
+      "Through Wiring",
+      "Electronic & elec. Dim"
+    ]
+  },
+  {
     "index": 23,
     "name": "PAC LED",
     "category": ["Weatherproof"],
@@ -688,6 +971,67 @@
     "datasheetpdf": "/Data/Datasheets_pdf/PAC LED.pdf",
     "commercialpoints": [
       "Weatherproof IP65",
+      "Polyester base"
+    ],
+    "description": "",
+    "options": [
+      "/Images/Products/Options/access_11.jpg",
+      "/Images/Products/Options/access_14.jpg",
+      "/Images/Products/Options/access_15.jpg",
+      "/Images/Products/Options/access_03.jpg",
+      "/Images/Products/Options/access_06.jpg",
+      "/Images/Products/Options/access_17.jpg",
+      "/Images/Products/Options/access_29.jpg",
+      "/Images/Products/Options/access_01.jpg",
+      "/Images/Products/Options/access_30.jpg",
+      "/Images/Products/Options/access_02.jpg",
+      "/Images/Products/Options/access_05.jpg",
+      "/Images/Products/Options/access_18.jpg"
+    ],
+    "optionsalt": [
+      "Susp.bracket 1L",
+      "Susp.bracket 2L",
+      "Susp.bracket+wire br.",
+      "Eyelet M5",
+      "Stainless steel clip",
+      "Vandalproof screw",
+      "St. Steel Clip Retainer",
+      "Cable gland",
+      "Quick Conn. Grommet",
+      "Emergency modules",
+      "Through Wiring",
+      "Electronic & elec. Dim"
+    ]
+  },
+  {
+    "index": 24,
+    "name": "PAS",
+    "category": ["Weatherproof"],
+    "IP": [
+      "IP65",
+      "IP67"
+    ],
+    "IK": "",
+    "EN": [
+      "ENEC"
+    ],
+    "CRI": "",
+    "Food safety": "",
+    "lighttype": "Fluorescent",
+    "base": "Glass reinforced polyester",
+    "image": "/Images/Products/Products/PAS.jpg",
+    "imagealt": "PAS Fluorescent Weatherproof",
+    "datasheetimg": [
+      "/Images/Products/Datasheets_jpg/PAS.jpg",
+      "/Images/Products/Datasheets_jpg/PAS2.jpg"
+    ],
+    "datasheetimgalt": [
+      "PAS Fluorescent Datasheet page 1",
+      "PAS Fluorescent Datasheet page 2"
+    ],
+    "datasheetpdf": "/Data/Datasheets_pdf/PAS.pdf",
+    "commercialpoints": [
+      "Weatherproof IP65/67",
       "Polyester base"
     ],
     "description": "",
@@ -888,6 +1232,66 @@
       "PLedX Datasheet page 2"
     ],
     "datasheetpdf": "/Data/Datasheets_pdf/PLedX.pdf",
+    "commercialpoints": [
+      "Weatherproof IP65",
+      "Polyester base"
+    ],
+    "description": "",
+    "options": [
+      "/Images/Products/Options/access_11.jpg",
+      "/Images/Products/Options/access_14.jpg",
+      "/Images/Products/Options/access_15.jpg",
+      "/Images/Products/Options/access_03.jpg",
+      "/Images/Products/Options/access_06.jpg",
+      "/Images/Products/Options/access_17.jpg",
+      "/Images/Products/Options/access_29.jpg",
+      "/Images/Products/Options/access_01.jpg",
+      "/Images/Products/Options/access_30.jpg",
+      "/Images/Products/Options/access_02.jpg",
+      "/Images/Products/Options/access_05.jpg",
+      "/Images/Products/Options/access_18.jpg"
+    ],
+    "optionsalt": [
+      "Susp.bracket 1L",
+      "Susp.bracket 2L",
+      "Susp.bracket+wire br.",
+      "Eyelet M5",
+      "Stainless steel clip",
+      "Vandalproof screw",
+      "St. Steel Clip Retainer",
+      "Cable gland",
+      "Quick Conn. Grommet",
+      "Emergency modules",
+      "Through Wiring",
+      "Electronic & elec. Dim"
+    ]
+  },
+  {
+    "index": 29,
+    "name": "PLX",
+    "category": ["Weatherproof"],
+    "IP": [
+      "IP65"
+    ],
+    "IK": "",
+    "EN": [
+      "ENEC"
+    ],
+    "CRI": "",
+    "Food safety": "",
+    "lighttype": "Fluorescent",
+    "base": "Glass reinforced polyester",
+    "image": "/Images/Products/Products/PLX.jpg",
+    "imagealt": "PLX Weatherproof",
+    "datasheetimg": [
+      "/Images/Products/Datasheets_jpg/PLX.jpg",
+      "/Images/Products/Datasheets_jpg/PLX2.jpg"
+    ],
+    "datasheetimgalt": [
+      "PLX Datasheet page 1",
+      "PLX Datasheet page 2"
+    ],
+    "datasheetpdf": "/Data/Datasheets_pdf/PLX.pdf",
     "commercialpoints": [
       "Weatherproof IP65",
       "Polyester base"
