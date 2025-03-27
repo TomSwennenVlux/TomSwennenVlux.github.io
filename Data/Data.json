@@ -1039,7 +1039,7 @@
   {
     "index": 33,
     "name": "SUR LED",
-    "category": ["Interior Recessed"],
+    "category": ["Interior Surface"],
     "IP": [
       "IP40"
     ],
@@ -1075,7 +1075,7 @@
   },
   {
     "index": 34,
-    "name": "TLX",
+    "name": "TLX LED",
     "category": ["Interior Surface"],
     "IP": [
       "IP20"
