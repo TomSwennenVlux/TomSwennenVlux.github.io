@@ -108,8 +108,7 @@
                                                 </div>
                                                 <div class="mb-3">
                                                     <textarea class="form-control" id="message" rows="4" name="message"
-                                                        placeholder="Type your message here" required>
-                                                    </textarea>
+                                                        placeholder="Type your message here" required></textarea>
                                                     <div class="form-group d-flex flex-column">
                                                         <label class="mb-2">
                                                             <input type="checkbox" name="terms" required>
@@ -169,7 +168,7 @@
         document.getElementById('contactForm').addEventListener('submit', function (event) {
             event.preventDefault();
 
-            emailjs.sendForm("service_db2vbzr", "template_aun1ea5", this)
+            emailjs.sendForm("service_6hay31c", "template_aun1ea5", this)
                 .then(function (response) {
                     // Success popup
                     Swal.fire({

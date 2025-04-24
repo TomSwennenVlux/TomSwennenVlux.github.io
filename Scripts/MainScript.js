@@ -14,7 +14,7 @@
         form.addEventListener('submit', function (event) {
             event.preventDefault();
 
-            emailjs.sendForm("service_db2vbzr", "template_dcqzsxr", this)
+            emailjs.sendForm("service_6hay31c", "template_dcqzsxr", this)
                 .then(function (response) {
                     Swal.fire({
                         icon: 'success',
